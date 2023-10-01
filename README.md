@@ -27,3 +27,4 @@ Este trabajo tiene un doble objetivo. Por un lado aplicar los conocimientos de G
   * Solo se valorará el contenido del archivo nombre_apellido.md
   * Los campos obligatorios son necesarios para poder evaluar la actividad, en caso de no cumplir alguno de ellos, el trabajo no se valorará.
   * El trabajo fuera de tiempo, no se valorará.
+  * **Debe entregarse el archvio.md en el campus virtual. Se revisará en el repositorio de código, no en el campus virtual**
