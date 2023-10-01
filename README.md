@@ -18,9 +18,9 @@ Este trabajo tiene un doble objetivo. Por un lado aplicar los conocimientos de G
 
 1. ( 4pt max) Que la línea del tiempo esté lo más completa posible.
 2. ( 3pt max) Explotar al máximo las posibilidades del lenguaje MD.
-3. ( 0.5pt  ) Forkear adecuadamente el repositorio.      (Obligatorio)
-4. ( 0.5pt  ) Carpeta y archivo nombrados adecuadamente. (Obligatorio)
-5. ( 1pt    ) Entrega el trabajo con Pull Request.       (Obligatorio)
+3. ( 0.5pt  ) Forkear adecuadamente el repositorio.       (Obligatorio)
+4. ( 0.5pt  ) Carpeta y archivo nombrados adecuadamente.  (Obligatorio)
+5. ( 0.5pt  ) Entrega el trabajo con Pull Request.        (Obligatorio)
 6. ( 1pt max) Originalidad e innovación.
 
 **Notas** 
