@@ -9,4 +9,4 @@
 | 2020 | - Agosto: Empeze a programa con arduino y armé un brazo robotico básico. <br>- Septiembre: Empezé a programar en C# y a utilizar Visual Basic. |
 | 2021    | - Enero: Seguí mi camino aprendiendo python y librerias como flask.<br>- Marzo: Empecé a aprender HTML y CSS, támbien construia paginas web muy sencillas.<br> - Septiembre: Aprendí como funcionaba JavaScript para mejorar las paginas web y hacer aplicaciones CRUD. |
 | 2022   | Me dediqué a aprender Frameworks y a como funcionaban las paginas web. |
-| 2023 | -Empecé a interesarme por los sistemas operativos y la forma en que se construñen.<br> -Entré a la universidad a estudiar Ingenieria Informatica. |
+| 2023 | -Empecé a interesarme por los sistemas operativos y la forma en que se construyen.<br> -Entré a la universidad a estudiar Ingenieria Informatica. |
