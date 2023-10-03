@@ -1,32 +1,40 @@
-<!-- Las imagenes no se podían dimensionar en md por eso he usado HTML -->
-
-
-
-
 # <center>**💻TIMELINE INFORMÁTICA💻**</center>
 ---
 
 ## 1. **2012-2013 -- Primer Contacto con la tecnología:** Mi primer movil fue un samsung galaxy mini de 2012.
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/GT-S6500L.jpg/800px-GT-S6500L.jpg" alt="movil" width="100" height="100"></center>
+![movil](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/GT-S6500L.jpg/800px-GT-S6500L.jpg)
 
 
 ## 2. **2014-2015 -- Primeras tablets:**
-- **iPad Air de 2º Generación**<center><img src="https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D640/https://d2e6ccujb3mkqf.cloudfront.net/530951fb-1256-47d6-951a-466924f376d9-1_d739209f-02e5-41b0-be8d-84c9423bb2f6.jpg" alt="movil" width="100" height="100"></center>
-- **Samsung Galaxy Tab S 10.5**<center><img src="https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D640/https://d2e6ccujb3mkqf.cloudfront.net/3edb9408-2e2d-479a-aa0c-c9d9595413ec-1_b7d11a49-7bbd-4421-885d-3af65322cd8e.jpg" alt="movil" width="100" height="100"></center>
-
+- **iPad Air de 2º Generación**
+![Tablet1](https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D640/https://d2e6ccujb3mkqf.cloudfront.net/530951fb-1256-47d6-951a-466924f376d9-1_d739209f-02e5-41b0-be8d-84c9423bb2f6.jpg)
+- **Samsung Galaxy Tab S 10.5**
+![Tablet1](https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D640/https://d2e6ccujb3mkqf.cloudfront.net/3edb9408-2e2d-479a-aa0c-c9d9595413ec-1_b7d11a49-7bbd-4421-885d-3af65322cd8e.jpg)
 ## **3. 2016 -- Primer Ordenador:** Era un ordenador portatil hp que lo use principalmente para jugar juegos como el minecraft.
-<center><img src="https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D640/https://d2e6ccujb3mkqf.cloudfront.net/e73c7b66-55fb-4f01-970c-e96db41e49e3-1_06f6bf83-6d60-4023-a728-279919840d26.jpg" alt="movil" width="100" height="100"></center>
+![Laptop](https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D640/https://d2e6ccujb3mkqf.cloudfront.net/e73c7b66-55fb-4f01-970c-e96db41e49e3-1_06f6bf83-6d60-4023-a728-279919840d26.jpg)
 
 ## **4. 2017 -- Primer Ordenador de Escritorio:** En 2017 me regalaron mi primer ordenador de escritorio el cual lo use para jugar al fornite y mas tarde lo use para programar. Tiene un i6 6700k, 1.5tb de espacio, una nvidia 1060 y 16gb de ram.
+![PC](https://thumb.pccomponentes.com/w-530-530/articles/1072/10720246/1619-pccom-ready-intel-core-i5-13400f-16gb-500gb-ssd-rtx3060-negro.jpg)
 
 ## **5. 2018 -- Comencé a programar:** En ese año empecé programando con HTML.
-
+![HTML](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 ## **6. 2019 -- Comencé a programar:** En ese año empecé programando con CSS.
-
+![CSS](https://cdn-media-1.freecodecamp.org/images/863sGFar-HXTATzeqGsA3n-jlIMgrFFlNeBS)
 ## **7. 2020 -- Comencé a programar:** En ese año empecé programando con PHP y JS.
+![PHP](https://www.ardiseny.es/wordpress/http://wp.ardiseny.es/wp-content/uploads/2015/03/phpCode.png)
+![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/JavaScript_code.png/800px-JavaScript_code.png)
 
-## **7. 2020 -- Mi primer proyecto (serio):** En ese año empecé programando con PHP y JS. Además de estos lenguajes aprendidos, comencé a utilizar bases de datos con PHP enlazando las páginas web que hacía con bases de datos. En este momento cree una página de una tienda online.
+## **Aprendí el uso de Bases de Datos y hacer consultas con codigo SQL**
+![DB](https://www.mclibre.org/consultar/webapps/img/phpmyadmin/2-1-s-2-crear-usuario.png)
+![sqlQuery](https://blog.gft.com/br/wp-content/uploads/sites/4/2021/01/imagem-01-3.png)
 
-## **8. 2021-2022 -- Primeros trabajos:** Comencé a trabajar como programador e hice mi primera página de una discoteca de Madrid (https://www.salakaya.com/)
+## **Introduccion en los frameworks:** En estos aprendí Codeigniter y Bootstrap, muy utiles para agilizar el trabajo.
+![Codeigniter](https://codeigniter.com/userguide3/_images/appflowchart.gif)
+![Bootstrap](https://bootstrapstudio.io/assets/img/app_4.jpg)
+
+## **8. 2020 -- Mi primer proyecto (serio):** En ese año empecé programando con PHP y JS. Además de estos lenguajes aprendidos, comencé a utilizar bases de datos con PHP enlazando las páginas web que hacía con bases de datos. En este momento cree una página de una tienda online.
+
+
 
 ## **9. 2023 -- Bachiller:** Aprendí Python en clase y en ese mismo año comencé en la universidad la carrera de Ingenieria informática.
+![Python](https://upload.wikimedia.org/wikipedia/commons/b/bc/Python_Code.png)
