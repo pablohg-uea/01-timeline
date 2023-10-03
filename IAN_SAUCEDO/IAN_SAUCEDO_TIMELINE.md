@@ -1,45 +1,47 @@
  # Mi interacción con la computación y tecnología
 
-## 2006
->- Tengo el primer contacto con un ordenador, siendo este el sobremesa familiar.
->- Interactuó con mis primeros juegos de ordenador (juegos didácticos).
->- aprendo a encender y apagar el ordenador.
+Mi relación con la computación y la tecnología ha sido un viaje emocionante y en constante evolución a lo largo de los años. Desde mi primer encuentro con un ordenador en 2006 hasta mis aspiraciones actuales en el campo de la ingeniería informática en 2023, he experimentado un crecimiento significativo en mi conocimiento y habilidades en este emocionante mundo digital.
 
-## 2008-2010
->- Uso de internet para juegos flash y experiencias formativas, juegos científicos entre otras formas de interacción en internet.
->- Aprendí a usar la interfaz visual de Windows.
+## ⚪ ➞ 2006
 
-## 2014
->- Tuve mi primera portátil (acer aspire).
->- Se me entrega mi primer teléfono móvil y mi primera Tablet.
+>- ⇣  En este año, experimenté mi primer contacto con un ordenador, que resultó ser el ordenador de escritorio de mi familia. Este momento marcó el inicio de mi viaje en el mundo de la tecnología.
+>- ⇣  Aprendí los conceptos básicos, como cómo encender y apagar el ordenador, lo que fue un paso importante en mi comprensión de la tecnología
+>- ⇣Me adentré en el emocionante mundo de los juegos de ordenador, especialmente aquellos con fines educativos, lo que me permitió aprender mientras me entretenía.
 
-## 2016
->- Aprendo a programar usando seudocódigo en las clases de informática de mi escuela.
->- Me anoto por primera vez en el club de robótica del colegio.
->- Creo mi primer juego usando lenguaje de programación en bloques (scratch).
+## ⚪ ➞ 2008-2010
+>- ⇣  Durante estos años, utilicé Internet principalmente para disfrutar de juegos flash y participar en experiencias formativas en línea, incluyendo juegos científicos y otras formas interactivas de aprendizaje.
+>- ⇣ También me familiaricé con la interfaz visual de Windows, lo que mejoró mi habilidad para navegar y utilizar sistemas operativos.
 
-## 2018
->- Inicio a buscar información de cómo se ensamblan ordenadores, como solucionar mis propios problemas con el mío.
->- Empiezo a buscar y aprender sobre el hardware y funcionamiento de ordenadores.
->- Consumo Videos con temática de reparación y restauración de hardware.
+## ⚪ ➞ 2014
+>- ⇣  En 2014, recibí mi primera computadora portátil, una Acer Aspire, lo que amplió mis oportunidades de explorar y aprender más sobre la tecnología
+>- ⇣ Además, ese año, me entregaron mi primer teléfono móvil y una tablet, lo que me permitió experimentar aún más con la tecnología móvil.
 
-## 2019
->- Inicio a reparar ordenador para poder tener algo de dinero y ahorrar para armarme mi primer ordenador de sobremesa
->- Aprendo a programar python, C. C#, SQL entre otras habilidades varias en el bachiller que cursaba.
+## ⚪ ➞ 2016
+>- ⇣ Mi crecimiento continuó cuando empecé a programar utilizando seudocódigo en las clases de informática de mi escuela.
+>- ⇣  Me uní al club de robótica de mi colegio, lo que me introdujo al emocionante mundo de la creación de robots y sistemas automatizados.
+>- ⇣ En un hito importante, creé mi primer juego utilizando lenguaje de programación en bloques a través de Scratch, lo que despertó mi interés por la programación.
 
-## 2020
->- Armo mi primer ordenador de sobremesa con piezas salvadas o de segunda mano
->- empiezo a aprender y conocer más sobre reparaciones de hardware a un nivel más avanzado
->- inicio a comprar más herramientas para seguir experimentando con hardware y trabajando en lo que me gusta
+## ⚪ ➞ 2018
+>- ⇣ En este año, comencé a buscar información sobre cómo ensamblar ordenadores y a resolver problemas con el mío. Esto marcó el comienzo de mi pasión por el hardware informático.
+>- ⇣ Me sumergí en el estudio del hardware y el funcionamiento de los ordenadores, ampliando mi conocimiento en este campo.
+>- ⇣ Además, empecé a consumir vídeos relacionados con la reparación y restauración de hardware, lo que me brindó una comprensión más profunda de estos procesos.
 
-## 2021
->- Aprendo a programar visual Basic 
->- Aprendo a Utilizar Linux con la distribución de Ubuntu
->- Adquiero conocimientos básicos de como montar servidores remotos y almacenar datos como habilidades de red básica (inicio a hostear un server de minecraft para mis amigos)
+## ⚪➞ 2019
+>- ⇣  En 2019, me lancé a la reparación de ordenadores para ganar algo de dinero y ahorrar para armar mi primer ordenador de sobremesa, un logro significativo en mi viaje tecnológico.
+>- ⇣ En el bachillerato, adquirí habilidades en programación, incluyendo Python, C, C#, SQL y otras, que ampliaron mi conjunto de habilidades técnicas.
 
-## 2022
->- hago proyectos varios para desarrollar habilidades.
->- Me intereso más en micro soldadura y la creación de circuitos tanto como su uso y aplicación
+## ⚪ ➞ 2020
+>- ⇣ Construí mi primer ordenador de sobremesa utilizando piezas que había salvado o adquirido de segunda mano, lo que me brindó una sensación de logro y una comprensión más profunda de la arquitectura de las computadoras.
+>- ⇣ Continué aprendiendo y explorando reparaciones de hardware a un nivel más avanzado, lo que me permitió solucionar problemas de manera más eficaz.
+>- ⇣ También invertí en más herramientas para seguir experimentando con el hardware y trabajar en lo que más me apasiona.
 
-## 2023
->- Inicio el grado de ingeniera informática.
+## ⚪ ➞ 2021
+>- ⇣ En 2021, amplié mis habilidades de programación al aprender Visual Basic.
+>- ⇣ Me aventuré en el mundo de Linux utilizando la distribución de Ubuntu, lo que me abrió las puertas a un sistema operativo alternativo.
+>- ⇣ Adquirí conocimientos básicos sobre cómo montar servidores remotos y almacenar datos, lo que incluyó la emocionante experiencia de alojar un servidor de Minecraft para mis amigos.
+
+## ⚪ ➞ 2022
+>- ⇣ Durante este año, emprendí diversos proyectos para seguir desarrollando mis habilidades en tecnología y programación.
+>- ⇣  Mi interés se centró aún más en la microsoldadura y la creación de circuitos, así como en su aplicación práctica, lo que me permitió explorar nuevos horizontes en el mundo de la electrónica.
+## ⚪ ➞ 2023
+>- ⇣ Este año marca un hito importante en mi viaje tecnológico, ya que comencé mi grado en  ingeniería informática. Este paso representa la culminación de mis esfuerzos y mi deseo de profundizar aún más en este fascinante campo.
