@@ -16,6 +16,16 @@
 ## **4. 2017 -- Primer Ordenador de Escritorio:** En 2017 me regalaron mi primer ordenador de escritorio el cual lo use para jugar al fornite y mas tarde lo use para programar. Tiene un i6 6700k, 1.5tb de espacio, una nvidia 1060 y 16gb de ram.
 ![PC](https://thumb.pccomponentes.com/w-530-530/articles/1072/10720246/1619-pccom-ready-intel-core-i5-13400f-16gb-500gb-ssd-rtx3060-negro.jpg)
 
+## Comencé a programar en scratch.
+![scratch](https://doplay.es/wp-content/uploads/2020/11/Mario-Bros.png)
+
+## Además de usar arduino para programar robots usando mblock para programarlo.
+![Arduino](https://www.generationrobots.com/blog/wp-content/uploads/2016/09/arduino-uno-rev3-generation-robots.jpg)
+![mBlock](https://www.mblock.cc/assets/img/v2/img-block-en.jpg)
+
+## Avancé y comencé a usar codigo para programar en arduino.
+![CodeArduino](https://share.opsy.st/60c2a2759a51a-IMAGE+4.png)
+
 ## **5. 2018 -- Comencé a programar:** En ese año empecé programando con HTML.
 ![HTML](https://kinsta.com/wp-content/uploads/2021/11/Untitled-54.png)
 ## **6. 2019 -- Comencé a programar:** En ese año empecé programando con CSS.
@@ -34,7 +44,8 @@
 
 ## **8. 2020 -- Mi primer proyecto (serio):** En ese año empecé programando con PHP y JS. Además de estos lenguajes aprendidos, comencé a utilizar bases de datos con PHP enlazando las páginas web que hacía con bases de datos. En este momento cree una página de una tienda online.
 
-
+## Comencé a programar juegos en unity en c++
+![C++](https://docs.hektorprofe.net/cdn/cpp/image-21.png)
 
 ## **9. 2023 -- Bachiller:** Aprendí Python en clase y en ese mismo año comencé en la universidad la carrera de Ingenieria informática.
 ![Python](https://upload.wikimedia.org/wikipedia/commons/b/bc/Python_Code.png)
