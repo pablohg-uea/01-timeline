@@ -6,7 +6,6 @@ Mi relación con la computación y la tecnología ha sido un viaje emocionante y
  <center><img src="images/data-science.png"
      alt="Imagen ordenador" />
      </center>
-
 </p>
 
 
@@ -20,7 +19,6 @@ Mi relación con la computación y la tecnología ha sido un viaje emocionante y
  <center><img src="images/computer.png"
      alt="Imagen ordenador" />
      </center>
-
 </p>
 
 ## **⚪ ➞ 2008-2010**
@@ -31,7 +29,6 @@ Mi relación con la computación y la tecnología ha sido un viaje emocionante y
  <center><img src="images/browser.png"
      alt="Internet" />
      </center>
-
 </p>
 
 
@@ -43,7 +40,6 @@ Mi relación con la computación y la tecnología ha sido un viaje emocionante y
  <center><img src="images/laptop.png"
      alt="laptop" />
      </center>
-
 </p>
 
 ## **⚪ ➞ 2016**
