@@ -145,3 +145,13 @@ Con mi compañero, optamos por algo dificil, el juego del dinosaurio que aparece
 Al inicio nuestro profesor nos dijo que no nos iba a salir, porque el para la universidad, su proyecto final fue crear un cronometro que midiera la puntuación, y nos dijo que le había costado demasiado, pero con mi compañero, logramos realizarlo.
 ```
 vinculo para ver el proyecto del dinosaurio [Dirección del proyecto del juego de dinosaurio](https://www.canva.com/design/DAFFlPbiftg/mPe2l3fuEnnXHQ-qtBINgQ/edit?utm_content=DAFFlPbiftg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+-----
+
+## 2023
+```
+Entre a la Universidad y es la primera vez que utilizo Git
+```
+<p align="center">
+<image src="github.jpg">
+</p>
