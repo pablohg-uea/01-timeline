@@ -7,3 +7,12 @@ sequenceDiagram
 2013--> 2016: Aquí comence a tener mayor interés por la computadoras, me fui adentrando más a ellas. Cambié de computadora por MacBook air
 2016--> 2019: Aquí empezó mi interés a la robótica, aprendí a programar en un lenguaje parecido a scratch y al mismo tiempo empecé a tocar HTML.
 2019 --> 2021: afds
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
