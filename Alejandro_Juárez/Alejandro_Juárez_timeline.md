@@ -73,6 +73,15 @@ Con mi padre, realizamos un acuerdo, si lograba quedar como el abanderado (prime
 
 --------
 
+## 2013
+
+```
+Uno de mis primos tenía una Nintendo DS, que me regaló, y me la pasaba jugando Mario Kart y Mario Bros
+```
+<p align="center">
+<image src="nintendods.jpg">
+</p>
+
 ## 2014
 
 ```
@@ -112,14 +121,19 @@ A pesar de que no tenía la menor idea de que era programar, me gustaba ver tuto
 ## 2018
 
 ```
-Entré al nivel básico (ESO) y empecé a emocionarme por la tecnología y como se podian crear cosas desde nuestras computadoras.
+Entré al nivel básico (ESO) y empecé a emocionarme por la tecnología y como se podian crear cosas desde nuestras computadoras, además que me compraron mi primera computadora y es la que utilizo actualmente, una Huawei matebook D15
 ```
 
+<p align="center">
+<image src="Primeracompu.jpg">
+</p>
 
 
-
-## 2020
+## 2021
 
 ```
-En este año me gradué del nivel básico, y estaba decidido en que quería seguir algo relacionado con la tecnología y aprender como crear algo.
+Entré al bachillerato y escogí la carrera de bachillerato en computación con orientación científica, y en este año cree mi primer codigo en java un Hola Mundo
 ```
+<p align="center">
+<image src="holamundo.jpg">
+</p>
