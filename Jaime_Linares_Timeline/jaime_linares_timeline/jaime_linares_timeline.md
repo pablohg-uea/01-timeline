@@ -27,7 +27,9 @@ Ese mismo año llegó a mi casa la Playstation4 la cual ha sido la consola mas u
 
 Cursando 4ºESO aprendo los sistemas numéricos decimal, binario y hexadecimal además de tener el primer contacto serio en programas como Word y Excel.
 
-En 2021 monto mi primer PC de sobremesa y empiezo a conocer como funciona Windows y las posibilidades que te permite. Además, aprendo a programar en lenguaje C con el clásico `Hello World`. Como dato curioso, mi padre me enseña a entrar en la Dark Web de forma básica y el uso de VPNs.
+En 2021 monto mi primer PC de sobremesa y empiezo a conocer como funciona Windows y las posibilidades que te permite. 
+
+Además, aprendo a programar en lenguaje C con el clásico `Hello World`. Como dato curioso, mi padre me enseña a entrar en la Dark Web de forma básica y el uso de VPNs.
 
 ![C](https://upload.wikimedia.org/wikipedia/commons/b/bd/Hello_world_c.svg)
 
@@ -44,9 +46,9 @@ A finales de año y a principios de 2023 comienzo a aprender Python y a profundi
 |  3   | HTML     |Medio  |
 |  4   | Python   |Medio  |
 
-![HTML](https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png) ![PYTHON](https://wiki.installgentoo.com/images/thumb/e/e4/Python.png/300px-Python.png)
+![HTML](https://www.freeiconspng.com/thumbs/html5-icon/w3c-html5-logo-0.png) ![PYTHON](https://wiki.installgentoo.com/images/thumb/e/e4/Python.png/300px-Python.png)
 
-* ### <span style="color:lightblue">__2023: Decición__</span>
+* ### <span style="color:lightblue">__2023: Decisión__</span>
 
 Este año tras ver lo que me atrae la tecnología, tanto el hardware mediante la construccion de mi primer PC como el software a través de la programación, decido que quiero estudiar Ingeniería Informática. 
 
