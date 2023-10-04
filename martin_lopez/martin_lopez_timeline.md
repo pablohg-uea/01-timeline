@@ -31,4 +31,5 @@
 ![ofimatica](https://larepublica.cronosmedia.glr.pe/original/2022/05/23/628ba570152e0076952ac79a.jpg)
 ![python](https://www.freecodecamp.org/espanol/news/content/images/2023/04/chris-ried-ieic5Tq8YMk-unsplash.jpg)
 
-## -Este 2023 me he matriculado en Ingeniería Informática en la Universidad Europea del Atlántico.
+## -:computer:Este 2023 me he matriculado en Ingeniería Informática en la Universidad Europea del Atlántico:computer:.
+![UNI](https://business-asset.com/spa/wiki-blog/uploads/images/00/02/89/2021/08/26/0u7eae5d5a-531c5a32-48ffb7fc.jpg)
