@@ -1,6 +1,8 @@
 # :video_game: Mi primer contacto con los videojuegos :video_game:
 
 ## -En 2011, con 7 años, uno de mis pasatiempos era observar como mi padre jugaba videojuegos en la playstation 3, especificamente la saga de Call of Duty, y a veces me dejaba jugar 
+
+
 ![COD](https://www.google.com/search?sca_esv=570620249&rlz=1C1GCEA_enES1078ES1078&q=call+of+duty+modern+warfare+2007&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiz_82WidyBAxXKWaQEHSloD1cQ0pQJegQIChAB&biw=1920&bih=955&dpr=1#imgrc=G_JjICUJr2jzsM)
 
 
@@ -17,9 +19,9 @@
 
 ## -En 2014, con 10 años, descubrimos mi hermano y yo los servidores de minecraft y con ellos la consola de comandos para poder averiguar la ip de nuestra wifi con el comando "ipconfig"
 
-# En 2015 obtengo mi primer telefono movil 
+# :iphone: Mi primer telefono movil :iphone:
 
-## En este año tuve una excursion con el colegio en la que ibamos a estar 4 dias fuera y era obligatorio llevar telefono, es por eso que a esa edad tuve mi primer movil, el samsung a5 
+## En 2015 tuve una excursion con el colegio en la que ibamos a estar 4 dias fuera y era obligatorio llevar telefono, es por eso que a esa edad tuve mi primer movil, el samsung a5 
 
 # Mi primera interaccion con la programacion en bloques 
 
