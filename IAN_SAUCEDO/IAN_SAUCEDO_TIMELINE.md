@@ -46,34 +46,74 @@ Mi relación con la computación y la tecnología ha sido un viaje emocionante y
 
 </p>
 
-
 ## **⚪ ➞ 2016**
 >- ⇣ Mi crecimiento continuó cuando empecé a programar utilizando seudocódigo en las clases de informática de mi escuela.
 >- ⇣  Me uní al club de robótica de mi colegio, lo que me introdujo al emocionante mundo de la creación de robots y sistemas automatizados.
 >- ⇣ En un hito importante, creé mi primer juego utilizando lenguaje de programación en bloques a través de Scratch, lo que despertó mi interés por la programación.
+
+</p>
+ <center><img src="images/programming.png"
+     alt="Programacion" />
+     </center>
+</p>
+
 
 ## **⚪ ➞ 2018**
 >- ⇣ En este año, comencé a buscar información sobre cómo ensamblar ordenadores y a resolver problemas con el mío. Esto marcó el comienzo de mi pasión por el hardware informático.
 >- ⇣ Me sumergí en el estudio del hardware y el funcionamiento de los ordenadores, ampliando mi conocimiento en este campo.
 >- ⇣ Además, empecé a consumir vídeos relacionados con la reparación y restauración de hardware, lo que me brindó una comprensión más profunda de estos procesos.
 
+</p>
+ <center><img src="images/pc-tower.png"
+     alt="torre" />
+     </center>
+</p>
+
 ## **⚪➞ 2019**
 >- ⇣  En 2019, me lancé a la reparación de ordenadores para ganar algo de dinero y ahorrar para armar mi primer ordenador de sobremesa, un logro significativo en mi viaje tecnológico.
 >- ⇣ En el bachillerato, adquirí habilidades en programación, incluyendo Python, C, C#, SQL y otras, que ampliaron mi conjunto de habilidades técnicas.
+
+</p>
+ <center><img src="images/sql-server.png"
+     alt="sql" />
+     </center>
+</p>
 
 ## **⚪ ➞ 2020**
 >- ⇣ Construí mi primer ordenador de sobremesa utilizando piezas que había salvado o adquirido de segunda mano, lo que me brindó una sensación de logro y una comprensión más profunda de la arquitectura de las computadoras.
 >- ⇣ Continué aprendiendo y explorando reparaciones de hardware a un nivel más avanzado, lo que me permitió solucionar problemas de manera más eficaz.
 >- ⇣ También invertí en más herramientas para seguir experimentando con el hardware y trabajar en lo que más me apasiona.
 
+</p>
+ <center><img src="images/settings.png"
+     alt="herramientas" />
+     </center>
+</p>
+
 ## **⚪ ➞ 2021**
 >- ⇣ En 2021, amplié mis habilidades de programación al aprender Visual Basic.
 >- ⇣ Me aventuré en el mundo de Linux utilizando la distribución de Ubuntu, lo que me abrió las puertas a un sistema operativo alternativo.
 >- ⇣ Adquirí conocimientos básicos sobre cómo montar servidores remotos y almacenar datos, lo que incluyó la emocionante experiencia de alojar un servidor de Minecraft para mis amigos.
+</p>
+ <center><img src="images/linux.png"
+     alt="linux" />
+     </center>
+</p>
 
 ## **⚪ ➞ 2022**
 >- ⇣ Durante este año, emprendí diversos proyectos para seguir desarrollando mis habilidades en tecnología y programación.
 >- ⇣  Mi interés se centró aún más en la microsoldadura y la creación de circuitos, así como en su aplicación práctica, lo que me permitió explorar nuevos horizontes en el mundo de la electrónica.
+</p>
+ <center><img src="images/soldering-iron.png"
+     alt="soldadura" />
+     </center>
+</p>
+
 
 ## **⚪ ➞ 2023**
 >- ⇣ Este año marca un hito importante en mi viaje tecnológico, ya que comencé mi grado en  ingeniería informática. Este paso representa la culminación de mis esfuerzos y mi deseo de profundizar aún más en este fascinante campo.
+</p>
+ <center><img src="images/engineer.png"
+     alt="carrera" />
+     </center>
+</p>
