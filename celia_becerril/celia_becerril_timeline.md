@@ -59,4 +59,19 @@
             * Realizado como actividades voluntarias con la profesora de tecnología en el instituto 
 
 
+## 2019
+* Comienzo a **progrmar con placas de arduino**
+    * *Semáforo*
+    * *Medidor de distancias*
+        * **Concurso** CantabRobots con el instituto
+         [cantabRobots.com](http://www.cantabrobots.es/)
+
+## 2020
+* Estudio el **primer lenguaje de programación** 
+    * *C*
+```C
+ printf ("Hola Mundo\n");
+``````
+
+
 
