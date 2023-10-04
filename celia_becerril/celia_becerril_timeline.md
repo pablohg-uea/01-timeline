@@ -73,5 +73,25 @@
  printf ("Hola Mundo\n");
 ``````
 
+## 2021
+* Mis primeros **auriculares inalambricos**
+    * *Airpods 2º generación*
+
+![AirPods](https://th.bing.com/th/id/R.073b0cff041dd77ae461bad724c2560b?rik=3C51%2fZysd%2fz5Vw&pid=ImgRaw&r=0) 
+
+* Aprendo un segundo lenguaje de programación
+    * Java
+```java
+System.out.println ("Hola Mundo");
+```
+
+
+## 2022
+* Aprendo un tercer **lenguaje de programación**
+    * *Python*
+```python
+  print ("Hola Mundo2");
+```
+   
 
 
