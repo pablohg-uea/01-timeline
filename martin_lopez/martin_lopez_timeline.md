@@ -1,6 +1,6 @@
 # :computer:Evolución de mi relación con la informática:computer:
 
-## -:video_game:En **2012**, es decir, cuando tan solo tenia 7 años, me compraron mi primera consola, la PSP. Este es el primer recuerdo consciente que tengo sobre algo relacionado con la informática.:video_game:
+## -:video_game:En 2012, es decir, cuando tan solo tenia 7 años, me compraron mi primera consola, la PSP. Este es el primer recuerdo consciente que tengo sobre algo relacionado con la informática.:video_game:
 ![PSP](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sony-PSP-1000-Body.png/1200px-Sony-PSP-1000-Body.png)
 
 ## -:video_game:El dia de reyes de 2014 nos regalaron a mi hermano y a mí la PS4 que venia con el videojuego "Destiny".:video_game:
