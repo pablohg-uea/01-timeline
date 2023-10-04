@@ -72,3 +72,15 @@
 ## En este curso comencaré con Java, que algo de idea tengo ya que he programado en el pasado y también empezaré a usar GitHub que sirve para hacer proyectos en la nube y con mas gente.
 ![Java](https://miro.medium.com/v2/resize:fit:1400/1*3OWWk9BUargTyvFGQpBsOA.png)
 ![GitHub](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg)
+
+# RECAPITULACIÓN
+
+| Año | Dispositivos | Lenguaje |
+|----------|----------|----------|
+| 2015    | Tablets   | ❌   |
+| 2016    | Portatil HP   | Java basico   |
+| 2017   | PC   | Scratch  |
+| 2018   | PC   | HTML  |
+| 2019   | PC   | CSS  |
+| 2020   | PC   | JS/PHP/SQL/C++/ + Framework  |
+| 2023   | PC   | Python/Java/ + GitHub  |
