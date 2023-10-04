@@ -16,7 +16,17 @@ Mi primer contato con un aparato electrónico fué el ordenador de mi abuelo, un
 
 ### Consolas
 Las consolas han influido mucho en mi relación con la tecnología, gracias a los videojuegos es el porque me gusta la informática.
-Tuve la wii varios años después de su lanzamiento
+Tuve la wii varios años después de su lanzamiento.
+
+![WII](WII.png)
+
+La igual que con la ps2
+
+![PS2](PS2.jpg)
+
+La 3ds fue la primera consola que tuve desde el lanzamiento.
+
+![3DS](3DS.png)
 
 ### Mi primer videojuego
 Mi primer videojuego fue el minecraft, me le regalaron por mi cumpleños y probablemente fuese el mayor influyente para mi gusto por la informática. Gracias a su sistema de mecanismos en el juego aprendí sobre puertas lógicas como and o not y la infinidad de posibilidades que tenia cuando lo dominabas.
@@ -33,6 +43,16 @@ Al final me decidí por un **ryzen de generación 2000** que era una generación
 
 En este mismo ordenador di mis primeros pasos en programación usando java aunque no profundicé demasiado. Además aprendí lo basico de HTML y CSS
 
+>[!NOTE]
+>
+>Mi primer código como el de mucha gente fue un hola mundo en java
+>```
+>class HolaMundo{
+>    public static void main(String [] args){
+>        System.out.println("Hola mundo");
+>    }
+>}
+>```
 ### Mi segundo ordenador
 Por último este año me he comprado un portatil para que me sea más cómodo estudiar. Lleva un AMD **ryzen de generación 7000**
 
