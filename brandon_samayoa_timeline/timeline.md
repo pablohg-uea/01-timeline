@@ -12,10 +12,6 @@
   - Finalmente, después de ahorrar durante años, compré un PlayStation 3 (PS3) y me sumergí en juegos como "The Last of Us" y "Uncharted".
   - También recibí mi primera computadora, una Dell All-in-One, como regalo de cumpleaños. Allí, mi interés por la informática comenzó a tomar forma.
 
-- **2013**
-  - Me uní a una comunidad en línea de entusiastas de PlayStation y comencé a participar en torneos y competencias de videojuegos, donde hice nuevos amigos.
-  - Comencé a explorar el mundo de la programación de videojuegos con motores como Unity y aprendí los fundamentos de la programación C#.
-
 - **2015**
   - Actualicé mi equipo informático a una MacBook Air, lo que facilitó mi trabajo y mis proyectos.
   - Mi interés por la robótica comenzó a crecer, y comencé a explorar la construcción de robots y la programación básica con Arduino.
@@ -26,10 +22,7 @@
 
 - **2018**
   - Cambié mi computadora a una Asus Vivobook, lo que mejoró significativamente el rendimiento de mis actividades de programación y desarrollo web.
-  - Gané el primer lugar en una competencia de robótica nacional y me emocioné aún más por el potencial de la robótica y la programación.
-
-- **2019**
-  - Comencé a dar clases de programación básica a niños en mi comunidad, compartiendo mi pasión por la informática y la programación.
+  - Gané el primer lugar en una competencia de robótica en mi colegio y me emocioné aún más por el potencial de la robótica y la programación.
 
 - **2020**
   - Creé un proyecto de página web personal donde apliqué mis conocimientos en HTML, CSS y JavaScript para mostrar mis proyectos y logros.
@@ -37,9 +30,6 @@
 - **2021**
   - Ingresé a la universidad y me sumergí aún más en el estudio de la informática.
   - Aprendí los conceptos básicos de Java y C# en mis primeros cursos.
-
-- **2022**
-  - Empecé a trabajar como asistente de investigación en un proyecto de inteligencia artificial en la universidad, lo que me brindó experiencia práctica en aprendizaje automático y procesamiento de lenguaje natural.
 
 - **2023**
   - He estado trabajando en proyectos más avanzados de programación en la universidad, aplicando mis habilidades en Java y C#.
