@@ -15,9 +15,7 @@
 > El municipio donde nací, se llama Salamá
 > El departamento es Baja Verapaz
 > Y el país donde nací, es Guatemala
-<p align="center">
-<image src = "Salama.jpg">
-</p>
+
 vinculo para ver el mapa de Salamá [Dirección de Salamá, Baja Verapaz, Guatemala](https://www.google.es/maps/place/Salam%C3%A1,+Guatemala/@15.1026406,-90.3258348,15z/data=!3m1!4b1!4m6!3m5!1s0x858a21ea1bda13df:0x2d840c119e78db67!8m2!3d15.1052115!4d-90.3160286!16zL20vMDM2cGhr?entry=ttu)
 
 -------
@@ -128,6 +126,7 @@ Entré al nivel básico (ESO) y empecé a emocionarme por la tecnología y como 
 <image src="Primeracompu.jpg">
 </p>
 
+----------
 
 ## 2021
 
@@ -137,3 +136,12 @@ Entré al bachillerato y escogí la carrera de bachillerato en computación con 
 <p align="center">
 <image src="holamundo.jpg">
 </p>
+
+## 2022
+
+```
+Para graduarme de bachillerato, me pidieron realizar parejas y que crearamos un juego.
+Con mi compañero, optamos por algo dificil, el juego del dinosaurio que aparece cuando no tenemos internet en google chrome.
+Al inicio nuestro profesor nos dijo que no nos iba a salir, porque el para la universidad, su proyecto final fue crear un cronometro que midiera la puntuación, y nos dijo que le había costado demasiado, pero con mi compañero, logramos realizarlo.
+```
+vinculo para ver el proyecto del dinosaurio [Dirección del proyecto del juego de dinosaurio](https://www.canva.com/design/DAFFlPbiftg/mPe2l3fuEnnXHQ-qtBINgQ/edit?utm_content=DAFFlPbiftg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
