@@ -51,4 +51,6 @@
 
 #Nuevo lenguaje de programacion
 
+## Mi profesor me propone cambiarme a un lenguaje mas nuevo y moderno
+
 ![IntelliJ](https://www.danysoft.com/wp-content/uploads/2023/01/20223_New_UI_main_page.png)
