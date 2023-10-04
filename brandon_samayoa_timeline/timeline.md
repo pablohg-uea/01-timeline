@@ -1,4 +1,30 @@
-# Mi linea del tiempo
+## Mi Línea de Tiempo en la Informática
+
+- **2009-2012**
+  - Tuve mi primer teléfono, un Sony Ericsson.
+  - Empecé con mi primera computadora, una Dell All-in-One.
+
+- **2012-2015**
+  - Cambié mi antigua computadora por una MacBook Air.
+  - Me interesé por la robótica.
+  - Comencé a programar en un programa similar a Scratch.
+
+- **2015-2018**
+  - Cambié de computadora nuevamente, esta vez a una Asus Vivobook.
+  - Gané varias competencias de robótica.
+  - Empecé a programar en HTML y CSS.
+  - Comencé a aprender Python.
+
+- **2018-2021**
+  - Creé algunas páginas web básicas.
+  - Continué aprendiendo JavaScript.
+  - Empecé a aprender Swift en la escuela.
+  - Desarrollé juegos simples en Python, como Snake.
+
+- **2021-2023**
+  - Continué mi aprendizaje en Java y C#.
+  - Inicié la universidad.
+
 
 
 
