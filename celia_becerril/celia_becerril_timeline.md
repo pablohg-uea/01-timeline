@@ -58,3 +58,37 @@
     * Creo una *puerta de garaje*
         * Con uso de circuitos y relés 
             * Realizado como actividades voluntarias con la profesora de tecnología en el instituto 
+
+## 2019
+* Comienzo a **progrmar con placas de arduino**
+    * *Semáforo*
+    * *Medidor de distancias*
+        * **Concurso** CantabRobots con el instituto
+         [cantabRobots.com](http://www.cantabrobots.es/)
+
+## 2020
+* Estudio el **primer lenguaje de programación** 
+    * *C*
+```C
+ printf ("Hola Mundo\n");
+``````
+
+## 2021
+* Mis primeros **auriculares inalambricos**
+    * *Airpods 2º generación*
+
+![AirPods](https://th.bing.com/th/id/R.073b0cff041dd77ae461bad724c2560b?rik=3C51%2fZysd%2fz5Vw&pid=ImgRaw&r=0) 
+
+* Aprendo un segundo lenguaje de programación
+    * Java
+```java
+System.out.println ("Hola Mundo");
+```
+
+
+## 2022
+* Aprendo un tercer **lenguaje de programación**
+    * *Python*
+```python
+  print ("Hola Mundo2");
+```
