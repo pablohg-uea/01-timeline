@@ -28,3 +28,7 @@
 # Mi salto a la programacion en codigo
 
 ## En 2019 con el mnismo profesor particular empiezo a ver la programacion en codigo, en el lenguaje Java, especificamente en la aplicacion NetBeans 
+
+#Mi primer PC sobremesa
+
+## En 2021 Decido comprarme mi primer ordenador gaming de sobremesa, metiendome en el mundo del hardware y de los componentes de un ordenador
