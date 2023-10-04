@@ -20,11 +20,11 @@ Tuve la wii varios años después de su lanzamiento.
 
 ![WII](WII.png)
 
-La igual que con la ps2
+Igualmente cuando tuve la ps2, la ps3 ya estaba en el mercado y poco después saldría la ps4
 
 ![PS2](PS2.jpg)
 
-La 3ds fue la primera consola que tuve desde el lanzamiento.
+La 3ds fue mi última consola y la primera consola que tuve desde el lanzamiento.
 
 ![3DS](3DS.png)
 
