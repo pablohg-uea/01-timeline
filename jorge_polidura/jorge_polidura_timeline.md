@@ -6,17 +6,21 @@
 ## -En 2011, con 7 años, uno de mis pasatiempos era observar como mi padre jugaba videojuegos en la playstation 3, especificamente la saga de Call of Duty, y a veces me dejaba jugar 
 
 
-![COD](https://www.google.com/search?sca_esv=570620249&rlz=1C1GCEA_enES1078ES1078&q=call+of+duty+modern+warfare+2007&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiz_82WidyBAxXKWaQEHSloD1cQ0pQJegQIChAB&biw=1920&bih=955&dpr=1#imgrc=G_JjICUJr2jzsM)
+![COD](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg)
 
 
-![PS3](https://www.google.com/search?q=ps3&&tbm=isch&ved=2ahUKEwj0xIHb_9uBAxUbfqQEHe-MCtsQ2-cCegQIABAA&oq=ps3&gs_lcp=CgNpbWcQA1DOCViVDGCcDWgAcAB4AIABAIgBAJIBAJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=XSUdZbSiCJv8kdUP75mq2A0&bih=955&biw=1920&rlz=1C1GCEA_enES1078ES1078#imgrc=j1qMhRv8PH4lXM)
+![PS3]()
 
 # :computer: Mi primer portatil :computer:
 
 
-![PORTATIL](https://www.google.com/search?q=portatil+hp+sleekbook+touchsmart+15&tbm=isch&ved=2ahUKEwigr4T7gtyBAxW0sEwKHXVaCiMQ2-cCegQIABAA&oq=portatil+hp+sleekbook+touchsmart+15&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BwgAEIoFEEM6BggAEAUQHjoGCAAQCBAeUP8TWKZxYJhyaABwAHgAgAFkiAHLEJIBBDI3LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=xSgdZeC4JLThsgL1tKmYAg&bih=955&biw=1920&rlz=1C1GCEA_enES1078ES1078#imgrc=2BUX8L2qv3zMMM)
+![PORTATIL]()
 
 ## -En 2013 mi hermano me enseña el videojuego minecraft, desde ese momento me meto de forma oficial en el mundo de los videojuegos y comparto con mi hermano el portatil de la marca HP, en este mismo año sale la playstation 4 
+
+![PS4]()
+
+![MINECRAFT]()
 
 # Mi primer contacto con la consola de comandos
 
@@ -25,6 +29,8 @@
 # :iphone: Mi primer telefono movil :iphone:
 
 ## En 2015 tuve una excursion con el colegio en la que ibamos a estar 4 dias fuera y era obligatorio llevar telefono, es por eso que a esa edad tuve mi primer movil, el samsung a5 
+
+![SAMSUNG](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/02/86891-samsung-galaxy-a5.jpg?tf=3840x)
 
 # Mi primera interaccion con la programacion en bloques 
 
