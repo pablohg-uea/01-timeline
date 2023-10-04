@@ -19,7 +19,9 @@ Las consolas han influido mucho en mi relación con la tecnología, gracias a lo
 Tuve la wii varios años después de su lanzamiento
 
 ### Mi primer videojuego
-Mi primer videojuego fue el minecraft, me le regalaron por mi cumpleños y probablemente fuese el mayor influyente para mi gusto por la informática. Gracias a su sistema de mecanismos en el juego aprendí sobre puertas lógicas como and o not y la infinidad de posibilidades que tenia cuando lo dominabas.![minecraft](minecraft.jpg)
+Mi primer videojuego fue el minecraft, me le regalaron por mi cumpleños y probablemente fuese el mayor influyente para mi gusto por la informática. Gracias a su sistema de mecanismos en el juego aprendí sobre puertas lógicas como and o not y la infinidad de posibilidades que tenia cuando lo dominabas.
+
+![minecraft](minecraft.jpg)
 
 ### Mi primer telefono
 Y mi primer móvil fue un samsung pequeño que solo servía *para hacer llamadas y hablar por WhatsApp*.
