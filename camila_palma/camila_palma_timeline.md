@@ -17,4 +17,7 @@
 |&darr;
 **2021**|Técnico en Figma, Python y C++. Ingreso a la universidad en la carrera de Business Analytics, donde aprendí Java, R y Python, enfocado en el análisis de datos.| ![Figma](figma.png)|
 |&darr;
+**2022**|Adquisición de mi primera computadora de escritorio.||
+|&darr;
 **2023**|Ingreso a la Universidad UNETLANTICO, donde gracias a una beca colaborativa he aprendido HTML, CSS y SCSS.| ![Capcitación](html.png)|
+
