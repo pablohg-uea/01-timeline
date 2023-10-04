@@ -40,5 +40,23 @@
 * Mi primera cuenta en una **red social**
     * *Instagram*
          [instagram.com](https://www.instagram.com/)
+## 2015
+* Mi **segunda consola**
+    * *Wii* edición 25 aniversario de Mario
+
+![wii](https://i5.walmartimages.com/asr/294690fd-6b78-4781-8275-a42dcd6c786f_1.f472729c53de0fdc4236e2c910660a00.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff)
+
+## 2017
+* Mi primer **teléfono Apple**
+    * IPhone SE (1º generación)
+
+![IPhoneSE](https://th.bing.com/th/id/OIP.Nh33lA9FwwkoTw4_8x9MnQHaHa?pid=ImgDet&rs=1)
+
+* Nuevas curiosidades en la tecnología
+    * Creo un *puente levadizo* 
+    * Creo una *puerta de garaje*
+        * Con uso de circuitos y relés 
+            * Realizado como actividades voluntarias con la profesora de tecnología en el instituto 
+
 
 
