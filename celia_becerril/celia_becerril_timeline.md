@@ -25,3 +25,20 @@
     * *Acer*
 ![PC](https://www.tuexperto.com/wp-content/uploads/2011/01/acer_aspire_one_e100_3.jpg)
 
+
+## 2012
+* Mi primer **IPad**
+    * *IPad 3º generación*
+
+![IPad](https://s3-eu-west-1.amazonaws.com/images.linnlive.com/345d573a4a65bbf1f90ef3a271a58654/885d05c5-8b50-4d7f-9fb9-ab101c827f38.jpg)
+
+## 2014
+* Mi primer **teléfono móvil**
+    * *Samsung galaxy trend*
+
+![Samsung](https://image1280.macovi.de/images/product_images/1280/939394_0__8567592.jpg)
+* Mi primera cuenta en una **red social**
+    * *Instagram*
+         [instagram.com](https://www.instagram.com/)
+
+
