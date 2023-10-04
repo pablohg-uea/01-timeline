@@ -5,7 +5,7 @@
 | **Año** |<center>**Evento**</center> | **Imagen** |
 |---|---|---|
 |&darr;
-**2007**|En primer grado, tuve mi primera interacción con un ordenador en la cual usábamos en clase de informática. Empezamos usando programas como *T-Box Planet* y *Scratch*.| ![Mi primera pc](compu.png )|
+**2007**|En primer grado, tuve mi primera interacción con un ordenador en la cual usábamos en clase de informática. Empezamos usando programas como *T-Box Planet* y *Scratch*.| ![Mi primera pc](compu.png)|
 |&darr;
 **2010**|Nos presentaban un nuevo programa, donde se desarrollaban juegos interactivos usando comandos para desarrollar los personajes y renderizar paisajes.| ![Mi primera videojuego](kgl.jpg )|
 |&darr;
