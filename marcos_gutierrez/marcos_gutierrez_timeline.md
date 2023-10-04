@@ -17,6 +17,8 @@
 ![MC](https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/U3DARTBN5RLOLJJQD4RHA3CUT4.jpg)
 ![MODS](https://images.fletchto99.com/blog/2019/may/minecraft-mod-reversing/2.png)
 
+## Creé y configuré mis primeros servidores de minecraft.
+![Server](https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/37/RunMinecraftServer.png/revision/latest?cb=20190625050940)
 
 ## **4. 2017 -- 📻Primer Ordenador de Escritorio:** En 2017 me regalaron mi primer ordenador de escritorio el cual lo use para jugar al fornite y mas tarde lo use para programar. Tiene un i6 6700k, 1.5tb de espacio, una nvidia 1060 y 16gb de ram.
 ![PC](https://thumb.pccomponentes.com/w-530-530/articles/1072/10720246/1619-pccom-ready-intel-core-i5-13400f-16gb-500gb-ssd-rtx3060-negro.jpg)
@@ -62,3 +64,11 @@
 
 ## **9. 2023 -- Bachiller:** 🤓Aprendí Python en clase y en ese mismo año comencé en la universidad la carrera de Ingenieria informática🤓.
 ![Python](https://upload.wikimedia.org/wikipedia/commons/b/bc/Python_Code.png)
+
+## Además en bachiller aprendí la ofimatica y sobretodo aprendí a usar excell.
+![Ofimatica](https://webcompukids.files.wordpress.com/2018/01/ofimatica.jpg?w=1200)
+![Excell](https://www.wallstreetmojo.com/wp-content/uploads/2018/09/CODE-Function-Example-3.jpg.webp)
+
+## En este curso comencaré con Java, que algo de idea tengo ya que he programado en el pasado y también empezaré a usar GitHub que sirve para hacer proyectos en la nube y con mas gente.
+![Java](https://miro.medium.com/v2/resize:fit:1400/1*3OWWk9BUargTyvFGQpBsOA.png)
+![GitHub](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/64e79ca5aff2fb7295bfddf9_github-que-es.jpg)
