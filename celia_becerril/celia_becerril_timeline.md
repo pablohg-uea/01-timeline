@@ -35,3 +35,12 @@
 ## 2014
 * Mi primer **teléfono móvil**
     * *Samsung galaxy trend*
+    
+![Samsung](https://image1280.macovi.de/images/product_images/1280/939394_0__8567592.jpg)
+
+* Mi primera cuenta en una **red social**
+    * *Instagram*
+         [instagram.com](https://www.instagram.com/)
+## 2015
+* Mi **segunda consola**
+    * *Wii* edición 25 aniversario de Mario
