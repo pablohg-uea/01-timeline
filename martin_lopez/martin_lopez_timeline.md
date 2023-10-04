@@ -21,8 +21,8 @@
 ## -:computer:En 2017 tuve mi primer portátil personal, era un MSI GF62 7RE:computer:.
 ![MSI](https://www.notebookcheck.org/uploads/tx_nbc2/2001688273_02.png)
 
-## -:iphone:Mi primer teléfono móvil lo tuve en 2017 con 12 años y fué un Samsung Galaxy:iphone:.
-![MOVIL]()
+## -:iphone:Mi primer teléfono móvil lo tuve en 2017 con 12 años y fué un Samsung Galaxy Grand Neo:iphone:.
+![MOVIL](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/legacy_bdt/GalaxyGrandNeo.png)
 
 ## -En 2020 dejé de recibir clases particulares de Java y empecé a aprender programación web (HTML,CSS,PHP) y un poco de bases de datos (MYSQL) con el mismo profesor.
 ![WEB](https://geoinnova.org/wp-content/uploads/2021/08/image-2-1024x554.png)
