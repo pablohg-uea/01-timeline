@@ -21,6 +21,10 @@ Este es probablemente la tecnologia que mas habre utilizado sin duda por lo cual
 Estos fueron las primeras consolas que yo utilice 
 
 
+### Ps4 y Pc
+
+
+
 
 
 
