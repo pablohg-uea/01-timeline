@@ -51,3 +51,14 @@ Esta es una línea de tiempo que tiene el propósito mostrar el porqué decidí 
 </p>
 
 ---
+
+
+2022
+---
+- *En mi último año de bachiller tuve proyectos muy interesantes acerca de programación, e incluso pude desarrollar un sitio web en conjunto con unos compañeros para un trabajo de finanzas. Así mismo desabollé un programa con [ARDUINO](https://www.xataka.com/basics/que-arduino-como-funciona-que-puedes-hacer-uno) y fue ahí donde fui pensando en que talvez mi futuro estaba con una carrera que tuviera que ver con la informática.*
+
+<p align="center">
+  <img src="./Arduino.jpg" alt="Arduino">
+</p>
+
+---
