@@ -41,12 +41,12 @@
 
 <h2 style="background-color:#41874e;color:black;font-weight:bold;border:3px solid;">2019</h2>
 
-## **6. Comencé a programar:** En ese año empecé programando con CSS.
+## **6.  En ese año empecé programando con CSS.**
 ![CSS](https://cdn-media-1.freecodecamp.org/images/863sGFar-HXTATzeqGsA3n-jlIMgrFFlNeBS)
 
 <h2 style="background-color:#41874e;color:black;font-weight:bold;border:3px solid;">2020</h2>
 
-## **7. Comencé a programar:** En ese año empecé programando con PHP y JS.
+## **7. En ese año empecé programando con PHP y JS.**
 ![PHP](https://www.ardiseny.es/wordpress/http://wp.ardiseny.es/wp-content/uploads/2015/03/phpCode.png)
 ![JS](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/JavaScript_code.png/800px-JavaScript_code.png)
 
