@@ -93,6 +93,7 @@ ___
 ___
 
   Esto se produjo debido a que emite ondas de radiación demasiado potentes.
-
+---
+___
 
 >  Si te interesa conocer más curiosidades sobre la informática [mira este vídeo](https://www.youtube.com/watch?v=beASp3H4Gxs "CURIOSIDADES SOBRE LA TECNOLOGÍA").
