@@ -44,11 +44,23 @@ ___
  * Tras este periodo de recapacitación acabe ecidiendo la ps4 y nuca me he arrepentidon, fue la mejor decisión que pude tomar hasta ahora.
 
     Si hiciesemos un ranking de todas las consolas que conozco mi top 3 quedaría así:
-     |   |Ranking mejores conslas |
-     |---|:----------------------:|
-     | 1 | PlayStation 4          |
-     | 2 | Xbox 360               |
-     | 3 | Nintendo 3DS XL        |
+     |   |Ranking mejores consolas |
+     |---|:----------------------: |
+     | 1 | PlayStation 4           |
+     | 2 | Xbox 360                |
+     | 3 | Nintendo 3DS XL         |
+- En esta etapa tras decantarme por la PS4 me metí de lleno en el mundo de los videojuegos, conociendo así juegos como [Fortnite](https://images.bild.de/5b509693c302a10001b51109/9f5a19c0df1b5f4a3bccf6fa91f99676,bb94e1e1?w=992 "JUEGO DE MI INFANCIA"), [fifa](https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000038676/02b078ec6e65f597dc655c1b958bf2dd07961ea45db4d59688ca8746bf28ae6d "JUEGO AL QUE MÁS VICIÉ"), [God of War](https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png "JUEGO QUE ME SORPRENDIÓ") y muchos más juegos espectaculares, es por eso que la califico como ***LIBERACIÓN INFORMÁTICA***, así como **mi etapa favorita**.
 
-#### 3. ÚLTIMA ETAPA 
+---
+___
+#### 3. ÚLTIMA ETAPA (ACTUALIDAD)
+- Esta última etapa pese a no ser mi favorita es también muy potente, tras años de espera por fin me llegó la ansiada PS5 una consola extinta en el mercado debido a la escasez de fabricación y a una pandemia recién superada, esta traería muchas mejoras que superarían a la PS4 y cualquier otra consola antes fabricada, esta vez la decisión de si complar la PS5 o la Xbox Series X fue muy fácil gracias a mis experiencias con la ps4, a continuación dejo una tabla con las diferencias entre PS5 y Xbox series X:
+
+|                           |PlayStation 5                                    |Xbox series X                                     |
+|-------------              |:-------------:                                  | -----------:                                     |
+|  CPU                      | 8 núcleos AMD Zen 2 a 3,5 GHz                   | 8 núcleos AMD Zen 2 a 3,8 GHz                    |
+| VELOCIDAD                 | 5,5 GB/s (sin compresión), 8,9 GB/s (comprimido)| 2,4 GB/s (sin compresión), 4,8 GB/s (comprimido) |
+| ALMACENEAMIENTO ADICIONAL | Slot para SSD NVMe                              | Tarjetas de expansión de 1 TB propietarias       |
+| PRECIO                    | 399,99€ (digital) 499,99 euros (Disco)          | 499 euros Xbox Series X                          |
+
  
