@@ -38,9 +38,17 @@ ___
     * Almaceneamiento desde 500GB hasta 1TB
     * Procesador especial de chip único
     * Consumo de máximo 165 W de energía
-  
 
- * Informática electrónica (años 70 - actualidad)
- * Informática (años 80 - actualidad)
+      <img src="https://qph.cf2.quoracdn.net/main-qimg-1755eb2dd86fce9d62e7082aa4035044-lq" alt="PSXBOX" height="150" width="300">
 
+ * Tras este periodo de recapacitación acabe ecidiendo la ps4 y nuca me he arrepentidon, fue la mejor decisión que pude tomar hasta ahora.
+
+    Si hiciesemos un ranking de todas las consolas que conozco mi top 3 quedaría así:
+     |   |Ranking mejores conslas |
+     |---|:----------------------:|
+     | 1 | PlayStation 4          |
+     | 2 | Xbox 360               |
+     | 3 | Nintendo 3DS XL        |
+
+#### 3. ÚLTIMA ETAPA 
  
