@@ -22,3 +22,13 @@ Esta es una línea de tiempo que tiene el propósito mostrar el porqué decidí 
 </p>
 
 ---
+
+2019
+---
+- *Tuve padres muy estrictos, es por eso que muchos años después fue que obtuve mi primer celular, era un [Huawei que ya no incorporaba los servicios de Google](https://www.pocket-lint.com/es-es/smartphones/noticias/huawei/148102-que-significa-la-prohibicion-de-google-de-huawei-para-su-telefono-huawei-u-honor/#:~:text=Estos%20tel%C3%A9fonos%20de%20Huawei%20no%20tienen%20servicios%20de%20Google&text=Eso%20significa%20que%20la%20serie,tienen%20ninguna%20aplicaci%C3%B3n%20de%20Google.), y tuve que personalmente volver a una versión más antigua de Android para poder instalar todas las aplicaciones y los servicios como tal, talvez para alguien en informática le parezca algo sencillo, pero el poder desarrollar una solución para un problema se sentía tan bien.*
+
+<p align="center">
+  <img src="./Huawei.jpg" alt="Huawei">
+</p>
+
+---
