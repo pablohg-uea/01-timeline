@@ -92,4 +92,4 @@ ___
 
 ___
 
-  Esto se produjo debido a que emite ondas de radiación demasiado potenes.
+  Esto se produjo debido a que emite ondas de radiación demasiado potentes.
