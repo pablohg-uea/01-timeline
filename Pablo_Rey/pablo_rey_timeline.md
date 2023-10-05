@@ -77,19 +77,19 @@ ___
 
 
 ## DATOS CURIOSOS
-___ 
+---
 ### 1. **La contraseña de los ordenadores encargados de controlar los misiles nucleares del ejército de los Estados Unidos durante años fue ~~00000000~~**
 
----
+___
 
   Algunos la llevaban apuntada en un papel por si se les olvidaba.
 ### 2. ***No siempre hemos podido “cortar y pegar***
 
----
+___
 
   Esta acción, que ha supuesto el ahorro de millones de horas acumuladas para usuarios de todo el mundo, fue desarrollada en 1981 por el ingeniero Larry Tesler.
 ### 3. ***Se han retirado los modelos de iphone 12 en toda Francia***.
 
----
+___
 
   Esto se produjo debido a que emite ondas de radiación demasiado potenes.
