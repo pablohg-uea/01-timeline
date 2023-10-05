@@ -7,7 +7,7 @@
 ### **RELACIÓN DE LA INFORMÁTICA CONMIGO**
 
  #### 1. PRIMERA ETAPA (INTRODUCCIÓN EN LA INFORMÁTICA)
-La informática lleva existiento muchos años pero no he tenido relación con la mayoria de sistemas hasta que cumplí los 8 años, con mi primera nintendo, la ***[nintendo DS](https://upload.wikimedia.org/wikipedia/commons/a/a0/Nintendo-DS-Lite-Black-Open.jpg "MI INICIO")***
+La informática lleva existiento muchos años pero no he tenido relación con la mayoria de sistemas hasta que cumplí los 8 años, con mi primera nintendo, la ***[nintendo DS](https://upload.wikimedia.org/wikipedia/commons/a/a0/Nintendo-DS-Lite-Black-Open.jpg "MI INICIO")***, espor eso que yo diría que es la etapa de ***LA INICIACIÓN***.
 
 A partir de esta "***maquinita***" empecé a conocer todo tipo de consolas y objetos electrónicos, podemos destacar varios:
 
@@ -32,7 +32,7 @@ A partir de esta "***maquinita***" empecé a conocer todo tipo de consolas y obj
 ___
 
   #### 2. SEGUNDA ETAPA (EVOLUCIÓN EN LA INFORMÁTICA)
-  * Esta etapa fue mi favorita la llamaría como la ***LIBERACIÓN INFORMÁTICA***, esto tiene su explicación, con 12 años llegaría mi primer ordenador, nada del otro mundo era simplemente para trabajar en proyectos para clase, este ordenador sería un modelo HP con un sistema operativo [Windows 7](https://winaero.com/blog/wp-content/uploads/2015/04/Windows-7-Start-menu-default-font.png "WINDOWS 7"), además contabacon un chip *Intel*, el [INTEL CORE i3 ](https://www.profesionalreview.com/wp-content/uploads/2020/11/intel-core-i3-9-gen-1.jpg "INTEL"), lo que más recuerdo es que la unica opción que tenía paratenía conectarse a internet era mediante un cable ETHERNET (conexión por cable).
+  * Esta etapa fue mi favorita, yo la llamaría como la ***LIBERACIÓN INFORMÁTICA***, esto tiene su explicación, con 12 años llegaría mi primer ordenador, nada del otro mundo era simplemente para trabajar en proyectos para clase, este ordenador sería un modelo HP con un sistema operativo [Windows 7](https://winaero.com/blog/wp-content/uploads/2015/04/Windows-7-Start-menu-default-font.png "WINDOWS 7"), además contabacon un chip *Intel*, el [INTEL CORE i3 ](https://www.profesionalreview.com/wp-content/uploads/2020/11/intel-core-i3-9-gen-1.jpg "INTEL"), lo que más recuerdo es que la unica opción que tenía paratenía conectarse a internet era mediante un cable ETHERNET (conexión por cable).
    
  * Este mismo año tuve que tomar una de las decisionesa del siglo ¿PlayStation o Xbox? Ambas consolas suponían una evolución enorme en las empresas de los videojuegos, mejores gráficos, mayor velocidad de carga, alguno de estos detalles más técnicos eran:
     * Almaceneamiento desde 500GB hasta 1TB
@@ -71,3 +71,25 @@ ___
     * **DISCO DURO**: 512 GB SSD
     * **TARJETA GRÁFICA**: NVIDIA GeForce RTX 3060 (12 GB)
 - Debido a todo esto esta etapa debería llamarse como ***LA EVOLUCIÓN*** ya que me llegan herramientas que mejoran las que ya tenía. 
+
+---
+___
+
+
+## DATOS CURIOSOS
+___ 
+### 1. **La contraseña de los ordenadores encargados de controlar los misiles nucleares del ejército de los Estados Unidos durante años fue ~~00000000~~**
+
+---
+
+  Algunos la llevaban apuntada en un papel por si se les olvidaba.
+### 2. ***No siempre hemos podido “cortar y pegar***
+
+---
+
+  Esta acción, que ha supuesto el ahorro de millones de horas acumuladas para usuarios de todo el mundo, fue desarrollada en 1981 por el ingeniero Larry Tesler.
+### 3. ***Se han retirado los modelos de iphone 12 en toda Francia***.
+
+---
+
+  Esto se produjo debido a que emite ondas de radiación demasiado potenes.
