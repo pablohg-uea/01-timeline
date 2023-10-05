@@ -72,3 +72,19 @@ Esta es una línea de tiempo que tiene el propósito mostrar el porqué decidí 
 </p>
 
 ---
+
+Resumen 
+---
+
+| Año          | Evento |
+|--------------|--------------|
+| 2009    | Primera Consola    | 
+| 2012    | Mi primer ordenador|
+| 2019    | Mi primer teléfono | 
+| 2020    | Auto-descubrimiento por pandemia   |
+| 2021    | Primeros pasos con C++ y Java   |
+| 2022    | Arduino   |
+| 2023    | Metas y sueños relacionado a la informática  |
+
+---
+> "No tengo miedo a los ordenadores. A lo que tengo miedo es a la falta de ellos." - Isaac Asimov
