@@ -62,3 +62,13 @@ Esta es una línea de tiempo que tiene el propósito mostrar el porqué decidí 
 </p>
 
 ---
+
+2023
+---
+- *Actualmente tengo muchas metas, entre ellas me gustaría aplicar mis conocimientos de tecnología e informática para ayudar de alguna manera a mi país, estaba pensando en desarrollar un nuevo sistema operativo funcional y poder crear una empresa de computadoras sustentables con el medio ambiente y que fueran de una potencia aceptable para uso en trabajos y escuelas, y lo más importante que sea lo más [accesible a un gran porcentaje de la población](https://forbescentroamerica.com/2020/09/11/la-poca-cobertura-de-internet-en-honduras-es-el-fracaso-de-las-clases-virtuales), porque pienso que la tecnología más que un producto para una minoría, debería estar al alcance de todos.*
+
+<p align="center">
+  <img src="SO.jpg" alt="SO">
+</p>
+
+---
