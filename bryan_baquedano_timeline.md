@@ -32,3 +32,22 @@ Esta es una línea de tiempo que tiene el propósito mostrar el porqué decidí 
 </p>
 
 ---
+
+2020
+---
+- *[La pandemia](https://www.paho.org/es/enfermedad-por-coronavirus-covid-19), algo que me dio mucho miedo, pero fue la oportunidad perfecta para descubrirme y saber un poco más de quién era y a que me quiero dedicar, durante este tiempo tome cursos de HTML, C++, Python, entre otros. Me gustaba mucho desarrollar programas para resolver un problema en concreto, ahí empezaba a interesarme un poco por la informática.*
+
+<p align="center">
+  <img src="./Coronavirus.jpg" alt="Coronavirus">
+</p>
+
+---
+2021
+---
+- *Estaba en “10mo grado” o como se conoce en otros países, primer año de bachiller, en este año en mi clase de computación aprendí muchas cosas, desde diseño 3D hasta el uso de programas como [C++ y Java](https://www.javatpoint.com/cpp-vs-java), era una clase que disfrutaba mucho, aunque hubo un momento dónde los ejercicios eran muy difíciles entonces empecé a perder el interés.*
+
+<p align="center">
+  <img src="./Java.jpg" alt="Java">
+</p>
+
+---
