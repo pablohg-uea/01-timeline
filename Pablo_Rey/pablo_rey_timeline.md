@@ -64,3 +64,10 @@ ___
 | PRECIO                    | 399,99€ (digital) 499,99 euros (Disco)          | 499 euros Xbox Series X                          |
 
  
+- Por último en las navidades de ese mismo año mediante la magia de los *"Reyes Magos"* me llegó un ordenador que me permitiría jugar juegos, estudiar y realizar trabajos sin problema alguno, este ordenador es el [HP VICTUS 15L](https://www.hp.com/es-es/shop/Html/Merch/Images/c08013309_1750x1285.jpg "MI ORDENADOR ACTUAL"), algunas de sus características son:
+    * **SISTEMA OPERATIVO** : Windows 11
+    * **PROCESADOR**: Intel Core i5 (De 12.ª generación)
+    * **MEMORIA**: 16 GB RAM
+    * **DISCO DURO**: 512 GB SSD
+    * **TARJETA GRÁFICA**: NVIDIA GeForce RTX 3060 (12 GB)
+- Debido a todo esto esta etapa debería llamarse como ***LA EVOLUCIÓN*** ya que me llegan herramientas que mejoran las que ya tenía. 
