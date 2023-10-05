@@ -12,3 +12,13 @@ Esta es una línea de tiempo que tiene el propósito mostrar el porqué decidí 
 </p>
 
 ---
+
+2012
+---
+- *Mi primer ordenador, recuerdo que tenía [Windows XP](https://www.profesionalreview.com/2020/12/20/historia-windows-xp/), y no era muy potente, pero aunque sea me alcanzaba para jugar FIFA 08, el Gta San Andreas y el Minecraft. Aquí fue donde empecé a interesarme un poco más con las computadoras, y su hardware, me gustaba mucho desarmarla y volverla a armar y le decía a mi mamá que era un técnico.*
+
+<p align="center">
+  <img src="./WindowsXp.jpg" alt="Windows">
+</p>
+
+---
