@@ -35,7 +35,7 @@
 
 ---
 
-## -:iphone:Con 12 años, en 2017, obtuve mi primer teléfono móvil, un Samsung Galaxy Grand Neo:iphone:.
+## -:iphone:Con 12 años, en 2017, tuve mi primer teléfono móvil, un Samsung Galaxy Grand Neo:iphone:.
 ![MOVIL](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/legacy_bdt/GalaxyGrandNeo.png)
 
 ---
