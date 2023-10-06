@@ -1,6 +1,17 @@
 # Mi relación con la informática
 ## Primer contacto
+### Playstation 2
+Mi primer contacto con la informática fué cuando tenia unos 3 años, cuando mis padres me regalaron una **Playstation 2**, me gustaba mucho utilizarla, jugando durante horas diariamente.
 
-Mi primer contacto con la informática fué cuando tenia unos 3 años, cuando mis padres me regalaron una Playstation 2, en esa epoca no la usaba mucho ya que era muy pequeño y no entendia lo que estaba haciendo, por lo que tras unos meses, dejé de utilizarla.
-Con el paso del tiempo olvidé que existia, hasta que mi padre la vió en un cajón, y decidió recordarmela, para ver si, ya entendiendo lo que estaba haciendo, la utiilzaba.
-Su idea fué un éxito, empezé a utilizarla durante horas todos los días, viendo lo mucho que me gustaba y el uso que le daba, cuando vió que había salido la Xbox 360, en esa época, la última generación, decidió regalarmela. 
+![Playstation_2](Playstation_2.jpg)
+
+### Xbox 360
+Viendo lo mucho que me gustaba, decidieron regalarme la **Xbox 360**, en esa época, la últimma generación de consolas, junto con la Playstation 3, ya con más edad y entendiendo mejor lo que hacía, es cuando realmente empezó a engancharme el mundo de la informática, me parecía increible que desde el sofá de mi casa, pudiera estar jugando y hablando con un amigo que estuviera en la suya, además de jugar también con gente de incluso otros paises.
+
+![Xbox_360](Xbox_360.webp)
+
+## Primer PC
+Más adelante, me regalaron mi primer PC, uno que en la época era bastante potente, le utilizaba principalmente para jugar, aunque también investigaba lo que podía hacer con él, como ver videos, o realizar de manera más facil alguna tarea de clase.
+
+## Estudios
+Ya sabiendo lo mucho que me gustaba la informática y todo lo relacionado con ella, tras acabar el bachillerato, decidí hacer un **Ciclo Formativo de Grado Superior de Administración de Sistemas Informáticos en Red** (CFGS ASIR). Ahí aprendí todo lo que sé hasta ahora. Tras acabar el grado, decidí continuar estudiando la ingeniería informática, que es lo que estoy haciendo en la actualidad.
