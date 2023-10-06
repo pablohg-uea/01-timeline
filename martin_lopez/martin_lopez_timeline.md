@@ -60,3 +60,10 @@
 ![UNI](https://business-asset.com/spa/wiki-blog/uploads/images/00/02/89/2021/08/26/0u7eae5d5a-531c5a32-48ffb7fc.jpg)
 
 ---
+
+## -Resumen de los dispositivos que he usado:
+| **Dispositivos**    |                          |                    |                                    |
+|---------------------|--------------------------|--------------------|------------------------------------|
+| _Consolas_ :video_game:         | PSP                      | PS4                |                                    |
+| _Teléfonos móviles_ :iphone: | Samsung Galaxy Grand Neo | Samsung Galaxy A6+ | Samsung Galaxy A52S                |
+| _PC/Portátiles_ :computer:    | Portátil de mis padres   | MSI GF62 7RE       | Ryzen 7 3700x, RTX 2060S, 16GB RAM |
