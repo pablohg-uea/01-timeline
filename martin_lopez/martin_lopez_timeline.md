@@ -67,3 +67,5 @@
 | _Consolas_ :video_game:         | PSP                      | PS4                |                                    |
 | _Teléfonos móviles_ :iphone: | Samsung Galaxy Grand Neo | Samsung Galaxy A6+ | Samsung Galaxy A52S                |
 | _PC/Portátiles_ :computer:    | Portátil de mis padres   | MSI GF62 7RE       | Ryzen 7 3700x, RTX 2060S, 16GB RAM |
+
+---
