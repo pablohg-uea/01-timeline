@@ -5,29 +5,29 @@
 
 * ### <span style="color:lightblue">__2005-2011: Primeros Encuentros__</span>
 
-Nazco en una familia que ya posee un ordenador y una Playstation2 Slim en casa. Aunque soy demasiado joven para comprender como usar estos dispositivos, veo a mi padre usar el ordenador para tareas básicas y jugar a los juegos disponibles tras piratearla.
+Nazco en una familia que ya posee un ordenador y una _Playstation2 Slim_ en casa. Aunque soy demasiado joven para comprender como usar estos dispositivos, veo a mi padre usar el ordenador para tareas básicas y jugar a los juegos disponibles tras piratearla.
 
 ![PS2](https://freepngimg.com/thumb/playstation_2/12-2-playstation-png.png)
 
 * ### <span style="color:lightblue">__2012-2015: Inicio de la Exposición__</span>
 
-Con 7 años empiezo a tener contacto con los ordenadores y a jugar a videojuegos en ellos además de descubrir los videos de [Youtube](https://www.youtube.com/). También, llega a mi casa la Playstation3 y comienzo a descubrir los juegos que marcaron mi infancia y a desarrollar la capacidad de entender como funciona la tecnología.
+Con 7 años empiezo a tener contacto con los ordenadores y a jugar a videojuegos en ellos además de descubrir los videos de [Youtube](https://www.youtube.com/). También, llega a mi casa la _Playstation3_ y comienzo a descubrir los juegos que marcaron mi infancia y a desarrollar la capacidad de entender como funciona la tecnología.
 
 ![PS3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGxpXn4J-x2koGrpmuDPpcr-txld8bH4rD3g&usqp=CAU)
 
 * ### <span style="color:lightblue">__2016-2019: Interacción__</span>
 
-Con 11 años me compran el primer móvil y desde el principio tengo gran facilidad para entender su funcionamiento. Creo mis primeras cuentas en redes sociales y a interactuar en línea con mis amigos y familia a través de Whatsapp e Instagram. Aprendo también sobre la privacidad en línea y la seguridad de las contraseñas.
+Con 11 años me compran el primer móvil y desde el principio tengo gran facilidad para entender su funcionamiento. Creo mis primeras cuentas en redes sociales y a interactuar en línea con mis amigos y familia a través de _Whatsapp_ e _Instagram_. Aprendo también sobre la privacidad en línea y la seguridad de las contraseñas.
 
 ![RS](https://static.vecteezy.com/system/resources/thumbnails/018/930/748/small/whatsapp-logo-whatsapp-icon-whatsapp-transparent-free-png.png) ![RS2](https://static.vecteezy.com/system/resources/thumbnails/022/100/939/small/instagram-logo-free-png.png)
 
-Ese mismo año llegó a mi casa la Playstation4 la cual ha sido la consola mas usada por mi parte. He conocido a gente de otras partes de España y he hecho los mejores amigos que tengo actualmente a través de esa consola y los grandes nombres que se desarrollaron en ella.
+Ese mismo año llegó a mi casa la _Playstation4_ la cual ha sido la consola mas usada por mi parte. He conocido a gente de otras partes de España y he hecho los mejores amigos que tengo actualmente a través de esa consola y los grandes nombres que se desarrollaron en ella.
 
 * ### <span style="color:lightblue">__2021: Exploración de la Informática y primer contacto con la programación__</span>
 
-Cursando 4ºESO aprendo los sistemas numéricos decimal, binario y hexadecimal además de tener el primer contacto serio en programas como Word y Excel.
+Cursando 4ºESO aprendo los sistemas numéricos decimal, binario y hexadecimal además de tener el primer contacto serio en programas como _Word_ y _Excel_.
 
-En 2021 monto mi primer PC de sobremesa y empiezo a conocer como funciona Windows y las posibilidades que te permite. 
+En 2021 monto mi primer PC de sobremesa y empiezo a conocer como funciona _Windows_ y las posibilidades que te permite. 
 
 Además, aprendo a programar en lenguaje C con el clásico `Hello World`. Como dato curioso, mi padre me enseña a entrar en la Dark Web de forma básica y el uso de VPNs.
 
