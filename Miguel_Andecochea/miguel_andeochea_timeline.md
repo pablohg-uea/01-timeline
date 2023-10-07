@@ -26,6 +26,7 @@ Además este mismo año me regalaron la **psp** una consola con la que pase much
 
 ### Primer tramo
 Este tuvo lugar en el año 2013 cuando en las navidades de este año me regalan la **PlayStation 4**. Para mi tuvo gran impacto ya que los gráficos de los juegos daban un gran salto con respecto a la Play 2. La **Play 4** fue lanzada al mercado el 15 de noviembre de 2013. Esta contaba con un *procesador  AMD 'Jaguar' x86-64, 8 núcleos y un motor gráfico AMD de 1,84 TFLOPS basado en Radeon*  además de una memoria de 8GB y una capacidad de almacenamiento de 1TB. 
+
 ![PlayStation](https://i0.wp.com/clipset.com/wp-content/uploads/2013/06/sony-ps4-consola.jpg?fit=600%2C369&ssl=1.jpg)
 
 ### Segundo tramo
