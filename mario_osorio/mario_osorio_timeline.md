@@ -34,5 +34,12 @@
 
 
 ## 2022-2023
-- **2022** Empiezo a adentrarme cada
+- **2022** Empiezo a adentrarme cada vez mas en la programacion y tambien crece mi interes en el hardware.
   
+- **2023** Decido estudiar en *UNEATLANTICO* para tener una buena formación de la informática. Actualmente en esta tarea hago el uso de GIT y Markdown que ofrece posibilidades interesantes.
+
+
+  - ![Programación](../Dise%C3%B1o-sin-t%C3%ADtulo-8-1024x512.jpg) 
+  - ![UNEATLANTICO](../gCUpxm3j_400x400.jpg) 
+  
+ 
