@@ -22,12 +22,16 @@ A partir del [_Bmobile AX350_](https://www.pantallazo.es/caracteristicas/bmobile
 Y desde siempre me han gustado los juegos simples como lo es Minecraft, asi que cuando hablamos de computadoras, sus componentes no eran de gran exigencia.
 
 **Mi Interacción con PC's**  
+
 |![Hp Compaq6710b](hp1.jpg)| 
 |:-:|
 |Mi primer computadora fue una HP Compaq6710b, aunque siempre usaba las laptops que mi mamá utilizaba para su trabajo.|
-*[Mas Info](https://www.notebookcheck.org/Analisis-HP-Compaq-6710b.5315.0.html)*   
+*[Mas Info](https://www.notebookcheck.org/Analisis-HP-Compaq-6710b.5315.0.html)* 
+
 ---
-    
+Accidentalmente arruiné esta laptop, por lo que hasta mucho tiempo despues, en pandemia, me compraron una PC de escritorio con componentes muchisimo mejores que la anterior; ya que esta la usaría no solo para estudios, si no para jugar y proyectos del ambito músical, ya que es algo en lo que me involucre en ese entonces y hasta ahora.    
+
+
  
 
 
