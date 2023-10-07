@@ -1,4 +1,4 @@
-Timeline
+Timeline :D
 =======
 >  _Mi nombre es Angel Romero, nací en Honduras el 29 de junio del 2005 y esta es mi línea del tiempo sobre_  
 > ### Mi interacción con la Informática:  
@@ -29,7 +29,12 @@ Y desde siempre me han gustado los juegos simples como lo es Minecraft, asi que 
 *[Mas Info](https://www.notebookcheck.org/Analisis-HP-Compaq-6710b.5315.0.html)* 
 
 ---
-Accidentalmente arruiné esta laptop, por lo que hasta mucho tiempo despues, en pandemia, me compraron una PC de escritorio con componentes muchisimo mejores que la anterior; ya que esta la usaría no solo para estudios, si no para jugar y proyectos del ambito músical, ya que es algo en lo que me involucre en ese entonces y hasta ahora.    
+
+Accidentalmente arruiné esta laptop, por lo que hasta mucho tiempo despues, en pandemia, me compraron una PC de escritorio con componentes muchisimo mejores que la anterior; ya que esta la usaría no solo para estudios, si no para jugar y proyectos del ambito músical, ya que es algo en lo que me involucre en ese entonces y hasta ahora.  
+|||
+|---|:-:|
+|Pero debido a mis estudios en UNEATLANTICO, tuve que dejar mi pais, por lo tanto esa PC. Así que actualmente cuento una _Acer Nitro 5_|![Acer Nitro 5](acer_nitro_5.jpg)|  
+
 
 
  
