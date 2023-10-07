@@ -23,4 +23,16 @@
   
   <video src="../SaveTube.io-PS4%20Startup.mp4" controls title="Title"></video>
 
-  ## 2018-2022
+  ## 2018-2021
+
+  - **2018** Durante este tiempo logro armar una computadora mas potente y pueda jugar juegos mas potentes en la computadora.
+   
+  - **2019-2021** Me empeze a interesar aun mas por la informática y tuve algunos acercamientos con algunos lenguajes de programación
+- [x] Aprender a armar una PC
+- [x] Certificaciones de Word y Powerpoint
+  ![PC](../pc_0.png)
+
+
+## 2022-2023
+- **2022** Empiezo a adentrarme cada
+  
