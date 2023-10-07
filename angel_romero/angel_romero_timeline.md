@@ -1,10 +1,9 @@
-Timeline :D
-=======
+# Timeline :D
 >  _Mi nombre es Angel Romero, nací en Honduras el 29 de junio del 2005 y esta es mi línea del tiempo sobre_  
-> ### Mi interacción con la Informática:  
+> ## Mi interacción con la Informática:  
    
    
-#### Mi primer celular  
+### Mi primer celular  
 * _Mi primer celular propio fue un Bmobile AX530._ Aunque mi primer contacto con un celular, sí mi memoria no me falla, fue con un Motorola A45; un dispositivo con  un teclado deslizable que fue lanzado al mercado en el año 2009.
 
 | Bmobile AX530 | Motorola A45 |
@@ -21,7 +20,7 @@ A partir del [_Bmobile AX350_](https://www.pantallazo.es/caracteristicas/bmobile
 
 Y desde siempre me han gustado los juegos simples como lo es Minecraft, asi que cuando hablamos de computadoras, sus componentes no eran de gran exigencia.
 
-**Mi Interacción con PC's**  
+### Mi Interacción con PC's 
 
 |![Hp Compaq6710b](hp1.jpg)| 
 |:-:|
@@ -35,6 +34,7 @@ Accidentalmente arruiné esta laptop, por lo que hasta mucho tiempo despues, en 
 |---|:-:|
 |_Pero debido a mis estudios en UNEATLANTICO, tuve que dejar mi pais, por lo tanto esa PC. Así que actualmente cuento una [_**Acer Nitro 5**_](https://www.geektopia.es/es/product/acer/nitro-5-an515-55-598s/)_|![Acer Nitro 5](acer_nitro_5.jpg)|  
 ---
+### Consolas
 Y por último, me gustaría mencionar que he he contado con distintas consolas como:  
 * Playstation 2
 * Nintendo Wii
