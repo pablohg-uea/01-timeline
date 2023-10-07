@@ -34,7 +34,7 @@ Accidentalmente arruiné esta laptop, por lo que hasta mucho tiempo despues, en 
 |---|:-:|
 |_Pero debido a mis estudios en UNEATLANTICO, tuve que dejar mi pais, por lo tanto esa PC. Así que actualmente cuento una [_**Acer Nitro 5**_](https://www.geektopia.es/es/product/acer/nitro-5-an515-55-598s/)_|![Acer Nitro 5](acer_nitro_5.jpg)|  
 ---
-### Consolas
+###  Consolas
 Y por último, me gustaría mencionar que he he contado con distintas consolas como:  
 * Playstation 2
 * Nintendo Wii
