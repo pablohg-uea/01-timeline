@@ -33,7 +33,7 @@ Y desde siempre me han gustado los juegos simples como lo es Minecraft, asi que 
 Accidentalmente arruiné esta laptop, por lo que hasta mucho tiempo despues, en pandemia, me compraron una PC de escritorio con componentes muchisimo mejores que la anterior; ya que esta la usaría no solo para estudios, si no para jugar y proyectos del ambito músical, ya que es algo en lo que me involucre en ese entonces y hasta ahora.  
 |||
 |---|:-:|
-|Pero debido a mis estudios en UNEATLANTICO, tuve que dejar mi pais, por lo tanto esa PC. Así que actualmente cuento una _Acer Nitro 5_|![Acer Nitro 5](acer_nitro_5.jpg)|  
+|_Pero debido a mis estudios en UNEATLANTICO, tuve que dejar mi pais, por lo tanto esa PC. Así que actualmente cuento una _**Acer Nitro 5**__|![Acer Nitro 5](acer_nitro_5.jpg)|  
 
 
 
