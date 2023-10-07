@@ -14,8 +14,8 @@ Timeline
 
 
 Apartir del [_Bmobile AX350_](https://www.pantallazo.es/caracteristicas/bmobile-ax530) empece a tener nuevos celulares, como pueden ser:    
-> * Samsung S3 mini
-> * Samsung Galaxy S7
-> * LG q60
-> * Y actualmente, iPhone 13 Pro Max
+> * [Samsung S3 mini](https://www.xataka.com/moviles/samsung-galaxy-s-iii-mini)
+> * [Samsung Galaxy S7](https://www.xataka.com/moviles/samsung-galaxy-s7-ranura-microsd-resistencia-al-agua-y-mejor-camara-para-reinar-en-la-gama-alta)
+> * [LG q60](https://www.xatakamovil.com/lg/lg-q60-caracteristicas-precio-ficha-tecnica)
+> * Y actualmente, [iPhone 13 Pro Max](https://www.xataka.com/analisis/apple-iphone-13-pro-max-analisis-caracteristicas-precio-especificaciones)
 
