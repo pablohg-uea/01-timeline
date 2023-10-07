@@ -1,12 +1,12 @@
-# Timeline
+# Timeline de Liam
 
-## Mi primer contacto con la informatica
+## **Mi primer contacto con la informatica**
 El Primer contacto con la informatica seria probablemente el iPhone 4 el cuel fue el movil que tenia mi madre y seria el primer movil con el que he estado en contacto.Tambien seria mi primer contacto con juegos de movil y con videos de youtube.Por lo tanto fue mi primer contacto con el internet y las cosas que se pueden hacer.
 #### iPhone 4
 <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/legacy_bdt/iphone4-3.png" alt="Esta es una descripcion alternativa de la imagen para cuando no se pueda mostrar" width="90" height="160" />
 
 
-## Ordenador
+## **Ordenadores**
 El primer ordenador que utilice fue un mac parecido al que esta abajo pero mas antiguo.Con mi primer contacto con un ordenador me empezaron a interesar las cosas relacionadas con la informatica y la technologia.
 
 En los años en los que yo comence a conocer mas de ordenadores se volvieron una tendencia los ordenadores portatiles debido a su comodidad de transporte y uso en el dia a dia, los ordenadores portatiles fueron creados sobre el año 1981 pero hasta que la tecnologia  y el hardware no se evoluciono no fue algo popular y fiable.
@@ -14,21 +14,52 @@ En los años en los que yo comence a conocer mas de ordenadores se volvieron una
 #### Mac
 <img src="https://japan.cnet.com/storage/2017/06/06/122772bb502540cfc21f0284104233a0/170606imac01.jpg" alt="Esta es una descripcion alternativa de la imagen para cuando no se pueda mostrar" width="" height="160" />
 
-# La evolucion de las consolas
+# **La evolucion de las consolas**
 Este es probablemente la tecnologia que mas habre utilizado sin duda por lo cual estoy muy familiarizado con ella.El avance de las consolas honestamenta ha sido muy rapido en aproximadamente 20 años hemos visto un cambio bruntal en la tecnologia y en el software utilizado en consolas.
 
-### Nintendo DS y Wii
-Estos fueron las primeras consolas que yo utilice 
+### **Nintendo DS y Wii**
+La nintendo ds salio en el año 2004 pero yo no llegue a utilizar una hasta mas tarde que me compre mi primera como en 2014 cuando salio la nintendo 3ds que implementaba una nueva tecnologia que permitia jugar a los videojuegos en 3D lo cual era una gran innovacion para el momento.
+
+Antes de comprarme una nintendo ds yo tenia la wii la cual salio en el año 2006 pero que yo utilizaria mas adelante.Un dato interesante de la wii y que a muchos de los jugadores de ella les gusto es tenia retrocompatibilidad con consolas como la game cube y pedias utilizar la wii para jugar a juegos de ella.
+
+<img src="https://i.blogs.es/997bba/wii_ds/650_1200.jpg" alt="Esta es una descripcion alternativa de la imagen para cuando no se pueda mostrar" width="" height="160" />
+
+### **Ps4 y Pc**
+En mi caso yo nunca llegue a comprar una playstation anterior a la PS4 pero si que llegue a probar la PS3 pero sin duda con la salida de la PS4 encontramos una de las consolas que mas ha revolucionado el mundo del gaming.Ya que todo sobre la consola era mill veces mejor que las que habia en el resto del mercado, con la salida de un producto asi los creadores de videojuegos se podian permitir hacer juegos mas completos y dinamicos para los jugadores ya que la PS4 podia ejecutar juegos mas complejos cosa que no podian hacer sus prdecesores.
+
+Pero si de tecnologia que podia permitir ejecutar juegos con una meyor calidad hablamos tenemos el claro ganador que son los ordenadores o como otra gente los llama un PC que significa *Personal Computer*.Mi primer y unico ordenador me lo compre en 2020 y con el he podido descubrir una magnitud de cosas y encima hizo que me metiese mucho mas al tema de la informatica y de la tecnologia lo cual hizo que acabase estudiando Ingenieria informaica.
+
+# **Moviles**
+Para la ultimo queria dejar uno de las tecnologias que mas han avancado en las ultimas decadas que seria el telefono movil.Quien se podria haber imaginado que estariamos llevondo pequeños ordenadores en nuestros bolsillos hace 50 años, la respuesta es probablemente nadie y encima en los ultimos 20 años la tecnologia de los moviles ha amuentado muchisimo haciendose uno de los productos mas necesarios en nuestro dia a dia.
+
+Mi el primer movil que tuve fue un BQ aquiaris M5, un movil que no el mas avancada pero sin duda me servia para lo que lo utilizaria, con ese movil cuando eres un niño por fin sientes que estas creciendo y ganando un poco de libertad.
+
+<img src="https://manzanarota.com/wp-content/uploads/2019/07/bq-aquaris-m5-m5-5-pantalla-bateria-carga-reparacion-manzana-rota.jpg" alt="Esta es una descripcion alternativa de la imagen para cuando no se pueda mostrar" width="" height="160" />
+
+El BQ lo acabaria retirando y comprandome un iPhone 8 del cual estuve muy contento pero ahora me doy cuenta de que probablemente con un movil decente vas perfecto.
+
+<img src="https://i.ebayimg.com/images/g/Y9UAAOSwjzhkCZI4/s-l640.jpg" alt="Esta es una descripcion alternativa de la imagen para cuando no se pueda mostrar" width="" height="160" />
+
+Eso me lleva a la acutualidad en la que tengo un xiaomi remi note 4 que me va muy bien a pesar de no ser el mejor modelo en el mercado.
 
 
-### Ps4 y Pc
+<img src="https://static-geektopia.com/storage/t/i/345/34537/remi_note_4.webp" alt="Esta es una descripcion alternativa de la imagen para cuando no se pueda mostrar" width="" height="160" />
 
-
-
-
-
-
-
+### **Para terminar simplemente decir que la tecnologia cada vez avanza mas y el evolucion que ha tenido especialmente en los ultimos 20 nos demuestra que las posibilidades del la informatica y tecnolocia son infinitas**
 
 ## Impactos Tecnologicos
-En el año 2004 Google revoluciono el mercado de correo gratuito creando Gmail.Esto es debido a la mayor calidad y falcilidad para los usuarios a la hora de manejar el sistema.
+##### **Aqui queria dejar algunos de los impactos tecnologicos que a mi me an gustado en los ultimos 20 años.**
+
+- En el año 2004 Google revoluciono el mercado de correo gratuito creando Gmail.Esto es debido a la mayor calidad y falcilidad para los usuarios a la hora de manejar el sistema.
+- Claramente uno de los mayores avances en los ultimos años son las **inteligencias aritficiales" pero no hubiese sido posible sin las IA que voy a listar aqui abajo.
+    - **ELIZA** que se podria considerar la tatareabuela de **Chat GPT**
+    - **SHRDLU**
+    - **Cyc**
+    - **Watson**
+    - **AlphaGo**
+
+Y por ultimo tenemos ya las mas conocida hoy en dia que es **Chat Gpt**
+
+- Unas de las craciones que mas me han gustado a mi han sido las ganas de realidad virtual o VR me ha parecido un invento que revoluciona el mundo gaming y hace que puedas sumergirte en la experiencia de un mundo virtual lo cual me parece impresionante.Es un tema que me intriga mucho y ahora se esta avanzando para poder utilizar todo el cuerpo en el mundo virtual.
+
+<img src="data:image/jpeg;base64,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" alt="Esta es una descripcion alternativa de la imagen para cuando no se pueda mostrar" width="" height="160" />
