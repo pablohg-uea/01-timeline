@@ -9,11 +9,18 @@
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 ## 2012-2013
 - **2012** Durante este tiempo obtuve una PSP la cual gracias a la ayuda de tutoriales pude tambien "liberar".
- - **2013** Durante este tiempo tuve un PS3 con el que tuve un acercamiento mas cercano al mundo online y los servidores.
+ - **2013** En este año  tuve un PS3 con el que tuve un acercamiento mas cercano al mundo online y los servidores.
   
 | PSP | PS3 |
 | ------------- | ------------- |
-| ![Alt text](../51OozvqUYpS._AC_UF1000,1000_QL80_.jpg)| ![Alt text](../61AlsXa+zdL._AC_UF1000,1000_QL80_.jpg) |
+| ![PSP](../51OozvqUYpS._AC_UF1000,1000_QL80_.jpg)| ![PS3](../61AlsXa+zdL._AC_UF1000,1000_QL80_.jpg) |
 
 
 ## 2014-2017
+ - **2015** Obtuve un PS4 con el que pude disfrutar de un sistema online mucho mas trabajado y disfrutar de muchos juegos.
+
+ - **2017** Empeze a interesarme mas en el tema de las computadoras y juego algunos juegos de poca exigencia en mi computadora.
+  
+  <video src="../SaveTube.io-PS4%20Startup.mp4" controls title="Title"></video>
+
+  ## 2018-2022
