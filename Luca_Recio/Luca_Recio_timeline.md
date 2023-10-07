@@ -9,3 +9,8 @@ La GameBoy era algo nuevo, una sencilla maquina que dispone de una cruceta, boto
 
 En esta consola solo jugaba al pokemon esmeralda y al mario bros, para mi era simplemente un juguete con el que pasar el tiempo
 
+# Nintendo DSi
+La DSi salió 7 años después de la GameBoy, como una mejora de la DS, ya que esta disponia de cámara, de un slot para meter tarjetas SD, además de aplicaciones integradas, como grabadora de voz, galeria, y aplicaciones que hacian uso del Wi-Fi, las cuales nunca les di uso ya que con esa edad no sabia lo que era el wifi 
+
+`imagen`
+
