@@ -5,7 +5,7 @@
 
 # Nintendo GameBoy Advance
 La GameBoy era algo nuevo, una sencilla maquina que dispone de una cruceta, botones A, B, L Y R, además de los start y select.  
-
+`imagen`
 
 En esta consola solo jugaba al pokemon esmeralda y al mario bros, para mi era simplemente un juguete con el que pasar el tiempo
 
