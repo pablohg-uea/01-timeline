@@ -9,7 +9,7 @@ Timeline :D
 
 | Bmobile AX530 | Motorola A45 |
 |---|---|
-|![BMobile](bmobile.png "Bmoible"){width='12px'}|![Motorola](motorola.jpg)
+|![BMobile](bmobile.png "Bmoible")|![Motorola](motorola.jpg)
 
 
 
