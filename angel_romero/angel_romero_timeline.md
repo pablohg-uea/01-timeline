@@ -9,7 +9,7 @@ Timeline
 
 | Bmobile AX530 | Motorola A45 |
 |---|---|
-|![screen](/01-timeline/angel_romero/bmobile.png)|![screen](/01-timeline/angel_romero/motorola.jpg)
+|![BMobile](bmobile.png)|![Motorola](motorola.jpg)
 
 
 
