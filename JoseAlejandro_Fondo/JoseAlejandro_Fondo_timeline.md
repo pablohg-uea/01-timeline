@@ -1,4 +1,4 @@
-# **Línea de tiempo**
+# ***Línea de tiempo***
 
 ## Me llamo **José Alejandro Fondo** y ésta es mi **línea de tiempo**.
 
@@ -54,7 +54,7 @@
 
 
 <p style="text-align: justify;">
-- En el año 2013, cuando tenía 19 años me compraron la PS3 con un par de juegos y esos dos fueron los únicos a los que jugué. Con esa edad estaba más interesado en salir y estar con los amigos más que en quedarme en casa a jugar, pero aún así, sacaba algo de tiempo para dedicarselo a la PS3.
+En el año 2013, cuando tenía 19 años me compraron la PS3 con un par de juegos y esos dos fueron los únicos a los que jugué. Con esa edad estaba más interesado en salir y estar con los amigos más que en quedarme en casa a jugar, pero aún así, sacaba algo de tiempo para dedicarselo a la PS3.
 
 <p align="center">
   <img width="360" height="250" src="ps3.jpg">
@@ -66,6 +66,14 @@
 
 <p align="center">
   <img width="360" height="250" src="Erazer.jpg">
+</p>
+
+
+<p style="text-align: justify;">
+- En el año 2016, mientras estudiaba el FP de **Automatización y Robótica Industrial**, aprendí mi primer lenguaje de programación que se denomina *KOP*, destinado a gobernar las entradas y salidas de un aoutómata programable (PLC), usando los programas Step 7 y TIA Portal.
+
+<p align="center">
+  <img width="360" height="250" src="Siemens PLC.jpeg">
 </p>
 
 
