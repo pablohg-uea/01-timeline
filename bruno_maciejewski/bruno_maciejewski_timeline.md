@@ -15,21 +15,28 @@
 Mi primer contato con un aparato electrónico fué el ordenador de mi abuelo, un ordenador muy basico pero con el que estuve muchas horas
 
 ### Consolas
+
+|Mis consolas|Imagen|
+|---|:----------------------: |
+|Tuve la ***wii*** varios años después de su lanzamiento.|![WII](WII.png)|
+|Igualmente cuando tuve la ***ps2***, la ps3 ya estaba en el mercado y poco después saldría la ps4|![PS2](PS2.jpg)|
+|La ***3ds*** fue mi última consola y la primera consola que tuve desde el lanzamiento.|![3DS](3DS.png)|
+
 Las consolas han influido mucho en mi relación con la tecnología, gracias a los videojuegos es el porque me gusta la informática.
-Tuve la wii varios años después de su lanzamiento.
 
-![WII](WII.png)
 
-Igualmente cuando tuve la ps2, la ps3 ya estaba en el mercado y poco después saldría la ps4
 
-![PS2](PS2.jpg)
 
-La 3ds fue mi última consola y la primera consola que tuve desde el lanzamiento.
 
-![3DS](3DS.png)
+
+
+
+
+
+
 
 ### Mi primer videojuego
-Mi primer videojuego fue el minecraft, me le regalaron por mi cumpleños y probablemente fuese el mayor influyente para mi gusto por la informática. Gracias a su sistema de mecanismos en el juego aprendí sobre puertas lógicas como and o not y la infinidad de posibilidades que tenia cuando lo dominabas.
+Mi primer videojuego fue el [minecraft](https://www.minecraft.net/es-es), me le regalaron por mi cumpleños y probablemente fuese el mayor influyente para mi gusto por la informática. Gracias a su sistema de mecanismos en el juego aprendí sobre puertas lógicas como and o not y la infinidad de posibilidades que tenia cuando lo dominabas.
 
 ![minecraft](minecraft.jpg)
 
@@ -57,6 +64,6 @@ En este mismo ordenador di mis primeros pasos en programación usando java aunqu
 Por último este año me he comprado un portatil para que me sea más cómodo estudiar. Lleva un AMD **ryzen de generación 7000**
 
 ### Conclusión
-Principalmente mi interés por la informática viene de trastear con el ordenador de mi abuelo como cuando necesitaba abrir los puertos del router para hacer un servidor con amigos para jugar minecraft. Ahí me di cuenta de que hay muchas cosas que puedes hacer con un ordenador.
+Principalmente mi interés por la informática viene de trastear con el ordenador de mi abuelo como cuando necesitaba abrir los puertos del router para hacer un servidor con amigos para jugar minecraft. Ahí me di cuenta de que hay muchas cosas que puedes hacer con un ordenador y quise saber más sobre el tema.
 
 
