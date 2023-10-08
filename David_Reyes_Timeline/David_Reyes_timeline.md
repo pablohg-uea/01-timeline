@@ -20,6 +20,14 @@ En esta linea de tiempo voy a especificar momentos en el cual tuve contacto con 
 #### - En el año 2013, mi padres me reglaron mi primer telefono movil que fue un blackberry. Lo usaba mayormente para contactarme en caso de emergecias con mi madre y para escuchar muscia.
 
 ![Telefono Movil](https://cdns.4clik.com/smartphone/SMTPH1334/blackberry-curve-9300-pic-1-full.jpg)
+
+#### - En el año 2013, mis padres me regalaron mi primera consola portatil, que fue la Ninetendo Ds. En el ninetendo yo lo que mas jugaba era juegos de Lego, para ser especifico el lego Batman.
+
+![Ninetendo DS](https://www.discoazul.fr/uploads/media/images/xl_azul.jpg)
+
+
+
+
 #### - En el año 2014, Con mi hermano nos compramos una nueva consola "Playstation 3". Con esa consola conoci los juegos shooters. Mi juego favorito fue el COD Black ops 2.
 ![Playstation3](https://www.refurbished.fr/cache/images/playstation-3-slim-front-controller_600x600_BGresize_16777215-tj.png)
 
