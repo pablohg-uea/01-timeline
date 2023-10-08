@@ -1,4 +1,7 @@
 ## Línea temporal de la Tecnología de Laura
+### introducción
+En mi casa desde pequeños mis padres simpre han preferido que jugaramos a juegos de mesa o en la calle antes que las tecnlogías, por eso siempre hemos tenido pocos dispositivos y a la hora de tenerlos siempre han intentado alargalo lo máximo posible por eso nunca tuve ni la wii, la play, etc. 
+
 ### La televisión 
 mi primer contacto con la tecnología fue la televisión que habia en mi casa, donde veía los dibujos animados y películas en dvd
 
@@ -50,3 +53,24 @@ a mediados de 2020, cuando estaba en tercero de la eso empezó la pandemia, en m
 como dije antes, tengo un aparto que es el freestyle que me mide la glucosa en sangre constantemente y al igual que la tecnología este sistema se ha ido desarrollando hasta que cuando entré en cuarto de la eso  y sacaron una actualización con la que se conecta por vía bluethooth y cuando se sale de los rangos establecidos suena una alrma (en clase ya me ha sonado alguna vez) y solo estaba dispoible del iphone 7 en adelante, así que me lo regalaron.
 
 ![visual studio code logo](https://photos5.appleinsider.com/gallery/24693-32582-iphonenfc-xl.jpg)
+
+### Iphone 12
+actualmente mi móviles un iphone 12, fue mi regalo de cumpleaños del año pasado, es blanco, estoy muy contenta por que funciona muy bien, tiene mucho espacio y muy buena cámara
+
+ ![visual studio code logo](https://cdn.idealo.com/folder/Product/200722/5/200722545/s11_produktbild_gross_2/apple-iphone-12-mini-64-gb-blanco.jpg)
+
+ ### Macbook 
+ Al comenzar segundo de bachiller como en casa solo había un ordenador que es el que usaba mi hermano para sus deberes no podíamos compartirlo por que nos coincidian las horas de uso así que me regalaron el macbook que es el que uso actualmente, es el macbook air m2 
+
+ ![visual studio code logo](https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-midnight-select-20220606?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1653084303665)
+
+### Chat gpt
+durante segundo de bachillerato se hizo famosa la inteligencia artificial, y comence a usar chat gpt, que es muy útil para las tareas o cualquier duda que te pueda surgir en varios ámbitos
+
+![visual studio code logo](https://i0.wp.com/chatgptspanish.org/wp-content/uploads/2023/06/chatgpt-icon-logo.png?fit=2000%2C588&ssl=1)
+
+### auriculares inhalámbricos
+
+al cambiar de móvil dejaron de tener la salido para poder cargarlo a la vez que conectar los auriculares así que mi regalo de reyes de este año fueron unos auriculares inhalámbricos para poder escuchar música por que es lo que más me gusta, son los energy system ep sport 2
+
+![visual studio code logo](https://m.media-amazon.com/images/I/61+exYoyhkL.jpg)
