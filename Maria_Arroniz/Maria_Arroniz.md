@@ -6,19 +6,21 @@
 + Como es natural mi relación con la tecnología se ha ido acentuando con los años,tanto por el interés que ha crecido en mí, como por a la evolucíon de la misma 
 ## Technology and me: ##
 ### 2014/15: ###
-+ En 2012 me aceptaron en el conservatorio para aprender a tocar el piano, cada dia caminaba 15 minutos hasta llegar allí. Los primeros años mis padres me acompañaban, pero cuando llegué a los 9/10 años de edad iba yo sola, por lo que necesitaba estar conectada con ellos, así que me regalaron mi primer teléfono móvil
++ En 2012 me aceptaron en el conservatorio para aprender a tocar el piano, cada día caminaba 15 minutos hasta llegar allí. Los primeros años mis padres me acompañaban, pero cuando llegué a los 9/10 años de edad iba yo sola, por lo que necesitaba estar conectada con ellos, así que me regalaron mi primer teléfono móvil
 + Después he ido heredando sus telefonos, como no podía ser de otra manera debido a la velocidad del desarrollo de la tecnología y a que mi padre es un friki de la misma
 ### Informática y audiovisuales: ###
-+ Como comenté antes dije que mi padre me había inculcado todo lo que me gusta a día de hoy, los primeros recuerdos que tengo, a parte de los videjuegos que hablaré más adelante, es verle haciendo videos de despedida (jubilaciones o traslados) a sus compañeros del trabajo con el ordenador de sobremesa apple y la aplicación de jib jab:
++ Como comenté anteriormente, mi padre me ha inculcado todo lo que me gusta a día de hoy, los primeros recuerdos que tengo, a parte de los videjuegos que hablaré más adelante, es verle haciendo videos de despedidas y jubilaciones a sus compañeros de trabajo con el ordenador apple de sobremesa y la aplicación de jib jab
 ![Jib jab][img9]
 
 [img9]: https://th.bing.com/th/id/R.5cb1060bfa75645a0196b3743253731d?rik=7bQRi5RWtFa9yw&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f921%2fB60F60EC92B414A549D42AB290EFA6B0%2fJibJab.png&ehk=ffRb7oUHt8dWmUhc%2fZmu7PjOPonhz%2fwh52vItezmcg8%3d&risl=&pid=ImgRaw&r=0
 
-+ Verlo trabajar con tanta ilusión en videos para los demás despertó esa creatividad en mí por la tecnología y edición de vídeo
++ Verlo trabajar con tanta ilusión en videos para los demás despertó la creatividad en mí por la tecnología y la  edición de vídeo
 ### Música: ###
-+ La música me ha asombrado desde que entré en el consevatorio con 7 años 
++ La música me ha fascinado desde que entré en el consevatorio con 7 años 
 + Tengo un gusto musical MUY muy variado (música clásica, indie, pop, phonk, techno...)
-+ Estoo tiene relación por la informática no solo por la plataforma donde escucho música que es spotify, sino que también por el uso de cascos. No puedo vivir sin ellos 
++ No puedo vivir sin ella
++ La conexión que tengo con la música esa través de la tecnología, no solo por la plataforma donde la escucho (Spotify), sino también por la forma en la que llega a mí:    
+
 ![Cascos sony][img10]
 
 [img10]: https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_102583607?x=1800&y=1800&format=jpg&quality=80&sp=yes&strip=yes&ex=1800&ey=1800&align=center&resizesource&unsharp=1.5x1+0.7+0.02
