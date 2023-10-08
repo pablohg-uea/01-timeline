@@ -2,6 +2,8 @@
 
 ### Me llamo David Reyes y esta es mi linea de tiempo
 
+![Foto mia](Foto%20mia.png)
+
 En esta linea de tiempo voy a especificar momentos en el cual tuve contacto con la Informatica.
 
 ## ***Nacì en Honduras el 29 de Julio de 2005***
