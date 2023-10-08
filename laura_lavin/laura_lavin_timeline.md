@@ -3,6 +3,17 @@
 mi primer contacto con la tecnología fue la televisión que habia en mi casa, donde veía los dibujos animados y películas en dvd
 
 ![visual studio code logo](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/msnbc/Components/Photos/050429/27V414T.jpg)
+
+### La radio
+desde pequeños mi madre siempre usabala radio para escuchar las noticias y en mi casa siempre estaba puesta así que crecí esuchandola todos los días 
+
+![visual studio code logo](https://image.made-in-china.com/2f0j00lFaEPAsIYgqQ/Khcibo-Kk-2008-FM-TV1-MW-Sw1-7-9-Band-Radio-Analog-Radio-Receiver.webp)
+
+### MP3
+en mi cumpleaños de  los 12 me regalaron un mp3 por que me pasaba eldía pegada a la radio escuchandola música y así podía ir con él a todos lados y elegir la música que a mi realmente me gustaba 
+
+![visual studio code logo](https://m.media-amazon.com/images/I/31Ssi67ItfL.jpg)
+
 ### la nintendo
 
 en 2011 hice la primera comunión y me regalaron la nintendo 3ds XL en rosa junto con juegos de pokemon y de futbol
