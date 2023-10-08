@@ -53,3 +53,9 @@ En bachillerato me encontré con otras dos asignaturas nuevas, las cuales fueron
 
 ![TecnologíaIndustrial](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjObACCdeLtMGfTLbGVrbBLH2vkjqY3okc9w&usqp=CAU)
 ![ImaxeSon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyn6Ed4-9pEAKjgXx-6OYOPmRw0NzyndNOw&usqp=CAU)
+
+## Mis primeros pasos como universitario informático
+
+Este año empiezo una nueva etapa, la etapa universitaria, y a persar de que entré con muchas ganas de aprender cosas nuevas relacionadas por fin con algo que de verdad me gusta y me apasiona, aún hay muchas cosas nuevas que me cuestan un poco entender, como pueden ser los comandos que para mi son un tanto complejos ya que nunca lo había hecho a este nivel, y espero salir de esta etapa muy formado para así trabajar de algo que de verdad me guste y no tener que sufrir el resto de mi vida.
+
+![EtapaUniversitaria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-O2V7Nr3NKvwr2WSPVVMMn694fQnhpTDLw&usqp=CAU)
