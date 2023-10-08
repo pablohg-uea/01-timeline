@@ -32,4 +32,8 @@ En 4º de la E.S.O, en la asignatura de TIC, tuve una profesora llamada Sara que
 
 ### *``` 2021 - El trabajo de mi hermano```*
 ---
-Aunque el título de este apartado sea algo extraño, tiene su explicación, y es uno de los puntos más importantes ya que es uno de los grandes motivos de mi admiración por la informática
+Aunque el título de este apartado sea algo extraño, tiene su explicación, y es uno de los puntos más importantes ya que es uno de los grandes motivos de mi admiración por la informática. En 2021, mi hermano terminó el Grado Superior de Administración en Redes y comenzó a trabajar de ello, desde entonces, él no ha parado de aprender cosas nuevas y siempre me explica todo lo que aprende y la verdad que me parecen incriebles las cosas que hacen tanto él como sus compañeros, a la hora de pedirle consejo acerca de que carrera escoger, no se lo pensó dos veces y me dijo que tenía que hacer Ingeniería Informática ya que él sabía que me iba a gustar mucho y que él me podría ayudar y viceversa, la verdad que estoy muy contento con la idea de poder aprender constantemente el uno del otro ya que nos tenemos mucho cariño y creo que aparte de eso, la informática nos va a mantener unidos toda la vida también.
+
+### *``` Extras ```*
+---
+Podría seguir con esta linea del tiempo mucho más, pero me he querido centrar en lo más importante y en lo que creo que me ha traído hasta aquí
