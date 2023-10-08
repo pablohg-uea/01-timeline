@@ -26,3 +26,5 @@ La wii fue una consola de videojuegos, que destacó por su nueva forma de intera
 - Sensor de movimiento: Se trataba de un sensor el cual emitia luz infrarroja, invisible al ojo humano, pero visible para los sensores del Wii remote.
 ![Sensor de la Wii](https://m.media-amazon.com/images/I/613Jd42459L.jpg)
 
+# Huawei Mate 20 Lite
+Este fue mi primer teléfono, lo tuve a mis 15 años, y para ser mi primer teléfono contaba con una características decentes, tenia 4gb de ram, 64gb de memoria, y una bateria que me duraba mas de 12h, solo tenia que cargarlo en la noche y ya podia hacer uso de el el resto del dia. Era un móvil de gama baja y con una cámara que a dia de hoy se queda muy atrás, pero para el momento, era lo justo y necesario, ya que su principal uso para mi era la oportunidad de poder hablar con mis amigos sin tener que depender del teléfono de mi madre o de Google Hangouts. Fue un gran cambio para mi porque empecé a entenderme mejor con la gente, ya que siempre había tenido problemas a la hora de socializar en persona.
