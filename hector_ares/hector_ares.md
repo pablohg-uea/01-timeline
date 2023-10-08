@@ -73,6 +73,65 @@ Otros componentes significativos que mejoré fueron tanto la tarjeta gráfica co
 ------------
 --------------
 
+## MI PRIMER MÓVIL 
+
+En cuanto a los teléfonos móviles también he vivido una evolución desde el primero que tuve que fue el *samsung galaxy A5 (2016)* en el año 2017 hasta el *iphone 13* que es mi teléfono actual.
+
+En la siguiente tabla veremos alguno de los cambios que ha habido en los móviles. (Todos han sido cambios de rendimiento esencialmente) Lo demás son pequeñas funcionalidades que no tienen demasiada importancia.
+
+| Característica                | Samsung Galaxy A5 (2016)          | iPhone 13                               |
+|-------------------------------|------------------------------------|----------------------------------------|
+| Sistema Operativo             | Android 5.1 (actualizable)         | iOS 15                                 |
+| Pantalla                       | 5.2 pulgadas, Super AMOLED         | 6.1 pulgadas, Super Retina XDR OLED   |
+| Resolución de Pantalla        | 1080 x 1920 píxeles                | 1170 x 2532 píxeles                   |
+| Procesador                    | Exynos 7580 Octa (1.6 GHz)         | Apple A15 Bionic                      |
+| Memoria RAM                   | 2 GB                               | 4 GB                                   |
+| Almacenamiento Interno        | 16 GB o 32 GB (ampliable)          | 128 GB, 256 GB, 512 GB                |
+| Cámara Principal              | 13 MP, f/1.9                       | Doble cámara: 12 MP, f/1.6 y 12 MP, f/2.4 |
+| Cámara Frontal                | 5 MP, f/1.9                        | 12 MP, f/2.2                          |
+| Batería                       | 2900 mAh                           | Capacidad no especificada, pero mejora respecto al modelo anterior |
+| Carga Inalámbrica             | No                                 | Sí                                     |
+| Conectividad                  | MicroUSB, 4G LTE                   | Lightning, 5G, Wi-Fi 6                |
+| Peso                          | 155 g                              | 174 g                                  |
+| Dimensiones                   | 144.8 x 71 x 7.3 mm                | 146.7 x 71.5 x 7.7 mm                 |
+| Resistencia al Agua y Polvo   | No                                 | IP68 (resistencia al agua y polvo)    |
+
+
+<img src="https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D750/https://d2e6ccujb3mkqf.cloudfront.net/9046be67-f438-459b-a56a-5de594afc1bb-1_2fa1f738-c519-4ee0-a910-704810ae2292.jpg
+" alt="Texto alternativo" width="180" height="160">
+  <img src="https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D750/https://d2e6ccujb3mkqf.cloudfront.net/ef5660d2-6883-4b81-b47d-86e5720687ef-1_21a9b534-124a-4fa1-a899-fcb5dae7b9a6.jpg
+" alt="Texto alternativo" width="180" height="160"> 
+______
+___
+
+## EL MAYOR CAMBIO TECNOLÓGICO
+
+EL mayor cambio tecnológico que he vivido yo desde mi punto de vista ya que es el que mas me ha afectado en mi día a día sin duda diría que es la implemtentación de la fibra óptica, una conexión a internet de alta velocidad que aceleraba todos los procesos de forma increible y sin la que a día de hoy sería muy complicado vivir ya que estamos acostumbrados a almacenar cosas en la nube, ver contenido en streaming y estar permanentemente conectados a internet.
+
+## La Importancia de la Implementación de la Fibra Óptica en Nuestras Vidas
+
+En la era digital en la que vivimos, la conectividad y la velocidad de Internet se han convertido en elementos fundamentales para el funcionamiento de la sociedad moderna. La implementación de la fibra óptica ha desempeñado un papel crucial en este contexto, transformando la forma en que vivimos, trabajamos y nos comunicamos.
+
+### Velocidad y Fiabilidad
+
+Uno de los aspectos más destacados de la fibra óptica es su velocidad y fiabilidad incomparables. A diferencia de los cables de cobre tradicionales, la fibra óptica utiliza pulsos de luz para transmitir datos, lo que permite velocidades de transmisión extremadamente rápidas. Esto significa que podemos descargar archivos, transmitir videos en alta definición y realizar videoconferencias sin interrupciones ni retrasos.
+
+La fiabilidad de la fibra óptica también es digna de mención. La resistencia de las fibras ópticas a las interferencias electromagnéticas y las condiciones climáticas adversas garantiza una conexión constante y estable. Esto es especialmente crítico en aplicaciones donde la confiabilidad es esencial, como en la atención médica, la educación en línea y la comunicación de emergencia.
+
+### Impulso a la Innovación
+
+La fibra óptica no solo mejora la velocidad y la confiabilidad de nuestras conexiones a Internet, sino que también impulsa la innovación en diversos campos. La capacidad de transferir grandes cantidades de datos de manera eficiente ha dado lugar a avances significativos en áreas como la inteligencia artificial, la realidad virtual y el Internet de las cosas (IoT). Estas tecnologías emergentes están cambiando la forma en que trabajamos, interactuamos con nuestro entorno y accedemos a la información.
+
+### Igualdad de Oportunidades
+
+La implementación de la fibra óptica también juega un papel importante en la promoción de la igualdad de oportunidades. Al proporcionar un acceso rápido y confiable a Internet en áreas urbanas y rurales por igual, se reducen las brechas digitales y se brindan oportunidades equitativas para la educación, el empleo y el desarrollo económico. Esto es fundamental para garantizar que todas las personas, independientemente de su ubicación geográfica, tengan acceso a las mismas posibilidades y recursos en la era digital.
+
+### Conclusion
+
+En resumen, la implementación de la fibra óptica ha transformado nuestra sociedad al ofrecer una conectividad rápida y confiable, impulsar la innovación tecnológica y promover la igualdad de oportunidades. A medida que continuamos avanzando en un mundo cada vez más digital, la fibra óptica seguirá desempeñando un papel crucial en nuestras vidas, mejorando la forma en que trabajamos, aprendemos y nos relacionamos con el mundo que nos rodea.
+
+<img src="https://citelia.es/wp-content/uploads/2020/08/tipos-fibra-optica-internet.jpg
+" alt="Texto alternativo" width="500" height="280"> 
 
 
 
