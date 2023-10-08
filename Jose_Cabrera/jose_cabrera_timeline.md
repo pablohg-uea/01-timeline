@@ -1,5 +1,6 @@
 ## **Mi historia con la tecnología**
 
+> Esta es mi historia sobre adquisiciones y utilizacion de tecnologia a lo largo de mi vida.
 
 - 2010: Un mes despues de mi cumpleaños, me regalaron lo que actualmente considero mi primera pieza de tecnología genuina. Una PlayStation 2 con 4 juegos que actualmente no recuerdo con claridad, mas se que uno de ellos fue un juego de nombre: "Dragon Ball Z Budokai 3"
 ![PlayStation 2](https://www.google.com/search?sca_esv=571755461&rlz=1C1CHBF_es__1012__1012&sxsrf=AM9HkKn-pvoOA12jUd9brISgJHGUFQqA3Q:1696790558920&q=playstation%202&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwjU45a0jeeBAxVJQ6QEHR0HBtkQ0pQJegQICxAB&biw=1366&bih=611&dpr=1#imgrc=zkUdch-lOeH0cM)
@@ -23,6 +24,5 @@
  ![PS4 Slim:](https://www.google.com/search?q=PS4%20slim&tbm=isch&ved=2ahUKEwjJvcL7oOeBAxVImScCHQ4FB_EQ2-cCegQIABAA&oq=PS4%20slim&gs_lcp=CgNpbWcQAzIKCAAQigUQsQMQQzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECCMQJzoHCAAQigUQQzoHCAAQgAQQCjoICAAQsQMQgwE6CAgAEIAEELEDOgQIABAeOgYIABAIEB5Qlg1YviVgvSdoAXAAeACAAXGIAb4HkgEDOC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=oAwjZcntMMiynsEPjoqciA8&bih=611&biw=1366&rlz=1C1CHBF_es__1012__1012#imgrc=VLgtHd8SLgeJsM)
  - 2022: Antes de venir a estudiar a Uneat, requería conseguir un par de cosas, entre ellas una laptop propia, tener un celular mas a la altura, y aprender un lenguaje de programacion que sea util para mis clases. Termine mejorando mi celular a un Galaxy S22 Ultra como regalo de graduación, consegui una laptop HP Pavilion para la universidad, y tomé cursos para aprender Java:
  ![Samsung Galaxy S22 Ultra:](https://www.google.com/search?sca_esv=571764422&rlz=1C1CHBF_es__1012__1012&sxsrf=AM9HkKnCrRMoq69GyubPztXwvwfvjbxh6w:1696796266987&q=galaxy%20s22%20ultra&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjFuP_VoueBAxVLT6QEHQGNDcIQ0pQJegQIChAB&biw=1366&bih=611&dpr=1#imgrc=ugLERDW0LR1n7M)
- ![HP Pavilion 13:]
-
-[def]: https://www.google.com/search?sca_esv=571764422&rlz=1C1CHBF_es__1012__1012&sxsrf=AM9HkKkUJR_m5Mdzl294SNc_qf60A3uDwQ:1696796335886&q=HP%20Pavilion%202022&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjU6-z2oueBAxXhTKQEHQnhCvIQ0pQJegQIDRAB&biw=1366&bih=611&dpr=1#imgrc=EYGXAZ5b0vnLIM
+![HP Pavilion 13:](https://www.google.com/search?sca_esv=571764422&rlz=1C1CHBF_es__1012__1012&sxsrf=AM9HkKkUJR_m5Mdzl294SNc_qf60A3uDwQ:1696796335886&q=HP%20Pavilion%202022&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjU6-z2oueBAxXhTKQEHQnhCvIQ0pQJegQIDRAB&biw=1366&bih=611&dpr=1#imgrc=EYGXAZ5b0vnLIM)
+![Mi primer idioma de programación (Java):](https://www.google.com/search?sca_esv=571764422&rlz=1C1CHBF_es__1012__1012&sxsrf=AM9HkKnJqaTGBp4bjI0DXffvYt-I1AJgww:1696796729746&q=java&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjui9SypOeBAxVVdqQEHc9lBtQQ0pQJegQIDRAB&biw=1366&bih=611&dpr=1#imgrc=qt1xQyXSEQHuTM)
