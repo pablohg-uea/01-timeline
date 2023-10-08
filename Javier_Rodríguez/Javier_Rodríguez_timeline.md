@@ -16,7 +16,11 @@ Como era de esperar, uno de los avances más significativos fué la creación de
 
 #### Creadas por John Ambrose Fleming y junto a las válvula de vacío se creó en 1937 el ordenador **ENIAC**
 
-Se considera que el ENIAC fue el primer ordenador jamás creado de propósito general y enteramente digital.
+Se considera que el **ENIAC** fue el primer ordenador jamás creado de propósito general y enteramente digital.
+
+Era un ordenador enorme que ocupaba una sala entera creado por válvulas de vacío y era capaz de realizar operaciones matemáticas.
+
+Aunque en su día fué muy importante a día de hoy hay cosas mucho mas pequeñas y a su vez más potentes que aquel ordenador ***ENIAC***.
 
 ## 3- INTERNET (1985)
 
@@ -52,8 +56,16 @@ Quizás el paso más grande sea mi primer ordenador portátil que tuve hace a pe
 
 A pesar de no haber tenido un ordenador propio hasta esta edad ya tenía bastante experiencia con ordenadores puesto que con mi primer teléfono móvil investigaba y usaba el de mi padre que había en casa.
 
+### LENGUAJES DE PROGRAMACIÓN
+
+No es hasta segundo de bachillerato cuando tuve mi primer contacto con lenguajes de programacíon, fué en el IES Marqués de Santillana en Torrelavega donde por primera vez utilicé html y css para crear una pagina web y en ella links que llevaran a otras páginas web también creadas por mí todo esto mejorado visualmente con css.
+
+También programamos con java y creamos ciertos programas sencillos desde la aplicación **Eclipse** y como trabajo final creamos una calculadora que iba pidiendo que operación hacer, que numeros utilizar, si querías usarla de nuevo o apagarla, etc.
+
+No he utilizado más lenguajes de programación aunque conocer conozco más pero no sabría usralos aún.
+
 ## WEBGRAFÍA UTILIZADA
 
-- [https://www.timetoast.com/timelines/linea-de-tiempo-avances-tecnologicos-en-el-tiempo](https://www.timetoast.com/timelines/linea-de-tiempo-avances-tecnologicos-en-el-tiempo "Línea del tiempo tecnológica")
-- [https://es.wikipedia.org/wiki/Tel%C3%A9fono#:~:text=Fue%20inventado%20por%20el%20italiano,Unidos%20el%20a%C3%B1o%20de%201871.](https://es.wikipedia.org/wiki/Tel%C3%A9fono#:~:text=Fue%20inventado%20por%20el%20italiano,Unidos%20el%20a%C3%B1o%20de%201871. "Primer teléfono")
-- [https://es.wikipedia.org/wiki/ENIAC](https://es.wikipedia.org/wiki/ENIAC "ENIAC")
+- [Línea del tiempo tecnológica](https://www.timetoast.com/timelines/linea-de-tiempo-avances-tecnologicos-en-el-tiempo "Línea del tiempo tecnológica")
+- [Primer teléfono](https://es.wikipedia.org/wiki/Tel%C3%A9fono#:~:text=Fue%20inventado%20por%20el%20italiano,Unidos%20el%20a%C3%B1o%20de%201871. "Primer teléfono")
+- [ENIAC](https://es.wikipedia.org/wiki/ENIAC "ENIAC")
