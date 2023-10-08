@@ -2,7 +2,7 @@
 ### La televisión 
 mi primer contacto con la tecnología fue la televisión que habia en mi casa, donde veía los dibujos animados y películas en dvd
 
-![visual studio code logo](https://masqnuevo.net/53916-large_default/consola-nintendo-3ds-xl-rosa-con-caja-de-segunda-mano.jpg)
+![visual studio code logo](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/msnbc/Components/Photos/050429/27V414T.jpg)
 ### la nintendo
 
 en 2011 hice la primera comunión y me regalaron la nintendo 3ds XL en rosa junto con juegos de pokemon y de futbol
