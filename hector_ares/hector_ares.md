@@ -97,9 +97,9 @@ En la siguiente tabla veremos alguno de los cambios que ha habido en los móvile
 | Resistencia al Agua y Polvo   | No                                 | IP68 (resistencia al agua y polvo)    |
 
 
-<img src="https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D750/https://d2e6ccujb3mkqf.cloudfront.net/a2a09f4b-7d93-46f4-8964-c7bc35f51e0b-1_d6701f63-e839-453b-b1d0-55a5245b69c6.jpg
-" alt="Texto alternativo" width="180" height="160">
+<img src="https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/8806088140926_1.jpg" alt="Texto alternativo" width="180" height="160">
   <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-max-green-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072988818" alt="Texto alternativo" width="180" height="160"> 
+
 ______
 ___
 
