@@ -97,10 +97,9 @@ En la siguiente tabla veremos alguno de los cambios que ha habido en los móvile
 | Resistencia al Agua y Polvo   | No                                 | IP68 (resistencia al agua y polvo)    |
 
 
-<img src="https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D750/https://d2e6ccujb3mkqf.cloudfront.net/9046be67-f438-459b-a56a-5de594afc1bb-1_2fa1f738-c519-4ee0-a910-704810ae2292.jpg
+<img src="https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D750/https://d2e6ccujb3mkqf.cloudfront.net/a2a09f4b-7d93-46f4-8964-c7bc35f51e0b-1_d6701f63-e839-453b-b1d0-55a5245b69c6.jpg
 " alt="Texto alternativo" width="180" height="160">
-  <img src="https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D750/https://d2e6ccujb3mkqf.cloudfront.net/ef5660d2-6883-4b81-b47d-86e5720687ef-1_21a9b534-124a-4fa1-a899-fcb5dae7b9a6.jpg
-" alt="Texto alternativo" width="180" height="160"> 
+  <img src="https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-max-green-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072988818" alt="Texto alternativo" width="180" height="160"> 
 ______
 ___
 
@@ -130,8 +129,7 @@ La implementación de la fibra óptica también juega un papel importante en la 
 
 En resumen, la implementación de la fibra óptica ha transformado nuestra sociedad al ofrecer una conectividad rápida y confiable, impulsar la innovación tecnológica y promover la igualdad de oportunidades. A medida que continuamos avanzando en un mundo cada vez más digital, la fibra óptica seguirá desempeñando un papel crucial en nuestras vidas, mejorando la forma en que trabajamos, aprendemos y nos relacionamos con el mundo que nos rodea.
 
-<img src="https://citelia.es/wp-content/uploads/2020/08/tipos-fibra-optica-internet.jpg
-" alt="Texto alternativo" width="500" height="280"> 
+<img src="https://concepto.de/wp-content/uploads/2018/02/fibra-optica-e1519650864676.jpg" alt="Texto alternativo" width="500" height="280"> 
 
 
 
