@@ -40,3 +40,18 @@ No supuso un gran cambio, lo compré porque mi anterior movil se quedó sin espa
 
 ![Redmi](https://m.media-amazon.com/images/I/61sJSKeJExL.__AC_SX300_SY300_QL70_ML2_.jpg)
 
+# Mi Pc
+---
+#### Este lo tuve este verano tras haber estado trabajando porque mis padres se negaban a comprarmelo. Las piezas fueron compradas por separado y montadas por mi.
+---
+Este está montado en una caja de tamaño ATX. Sus características son:
+- Fuente de alimentación Nox de 650W bronze 80+
+- Placa base/Motherboard Asus Prime B450-Plus.
+- Una CPU Ryzen 5 3600 con 6 núcleos (3,95 Ghz cada uno)
+- Una ram de 16 GB, dividida en 8x2, para evitar sobrecarga
+- Y una tarjeta gráfica MSI AMD Radeon RX 6650 XT
+- De disco duro se trata de una Kingstone A400 SSD de 960 GB
+
+La relación entre la CPU y la tarjeta gráfica es buena, tiene un bajo % de provocar un cuello de botella por lo que puedo sacarle un buen rendimiento al Pc, tanto para juegos como para programas pesados.
+
+
