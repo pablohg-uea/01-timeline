@@ -5,6 +5,25 @@
 + Tengo muy claro que mi padre ha sido el que despertó en mí todo el interés y pasión por las tecnologias, videojuegos y audiovisuales (edición de vídeo)  
 + Como es natural mi relación con la tecnología se ha ido acentuando con los años,tanto por el interés que ha crecido en mí, como por a la evolucíon de la misma 
 ## Technology and me: ##
+### 2013/14: ###
++ En 2012 accedí al conservatorio para estudiar y aprender a tocar el piano, este estaba a 15 minutos caminando de mi casa. El primer año mis padre me acompañaban pero ya sobre los años 2013/14 a mis 8/9 años de esas iba yo sola, por lo que necesitaba estar conectada con ellos por si pasaba algo, así que tuve mi primer teléfono móvil
++ Trás eso he ido heredando telefonos móviles de mi padre y mi madre
+### Informática y audiovisuales: ###
++ Como comenté antes dije que mi padre me había inculcado todo lo que me gusta a día de hoy, los primeros recuerdos que tengo, a parte de los videjuegos que hablaré más adelante, es verle haciendo videos de despedida (jubilaciones o traslados) a sus compañeros del trabajo con el ordenador de sobremesa (apple) y la aplicación de jib jab:
+![Jib jab][img9]
+
+[img9]: https://th.bing.com/th/id/R.5cb1060bfa75645a0196b3743253731d?rik=7bQRi5RWtFa9yw&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f921%2fB60F60EC92B414A549D42AB290EFA6B0%2fJibJab.png&ehk=ffRb7oUHt8dWmUhc%2fZmu7PjOPonhz%2fwh52vItezmcg8%3d&risl=&pid=ImgRaw&r=0
+
++ Verlo trabajar con tanta ilusión en videos para los demás despertó esa creatividad en mí por la tecnología y edición de vídeo
+### Música: ###
++ La música me ha asombrado desde que entré en el consevatorio con 7 años 
++ Tengo un gusto musical MUY muy variado (música clásica, indie, pop, phonk, techno...)
++ Estoo tiene relación por la informática no solo por la plataforma donde escucho música que es spotify, sino que también por el uso de cascos. No puedo vivir sin ellos 
+![Cascos sony][img10]
+
+[img10]: https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_102583607?x=1800&y=1800&format=jpg&quality=80&sp=yes&strip=yes&ex=1800&ey=1800&align=center&resizesource&unsharp=1.5x1+0.7+0.02
+
+
 
 ## Videogames and me: ##
 + Antes de comenzar nombrando y explicando mi evolución personal con los videojuegos me gustaría señalar cómo me dí cuenta que quería trabajar en esta industria: justo al acabar un videojuego llamado **Horizon Zero Dawn** (videojuego de acción, aventura y mundo abierto desarrollado por Guerrilla Games que salió en 2015), salieron los créditos de todas las persona que lo habían desarrollado, en ese momento me emocioné dándome cuenta que quería que mi nombre apareciera en los créditos de futuros videojuegos.
@@ -57,5 +76,10 @@
 ![PlatStation5][img8]
 
 [img8]: https://www.pwnedgames.co.za/images/stories/virtuemart/product/playstation_5_console_white_ps5.png 
+
+## Conclusions: ##
+
+
+
 
 
