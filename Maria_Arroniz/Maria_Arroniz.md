@@ -5,11 +5,11 @@
 + Tengo muy claro que mi padre ha sido el que despertó en mí todo el interés y pasión por las tecnologias, videojuegos y audiovisuales (edición de vídeo)  
 + Como es natural mi relación con la tecnología se ha ido acentuando con los años,tanto por el interés que ha crecido en mí, como por a la evolucíon de la misma 
 ## Technology and me: ##
-### 2013/14: ###
-+ En 2012 accedí al conservatorio para estudiar y aprender a tocar el piano, este estaba a 15 minutos caminando de mi casa. El primer año mis padre me acompañaban pero ya sobre los años 2013/14 a mis 8/9 años de esas iba yo sola, por lo que necesitaba estar conectada con ellos por si pasaba algo, así que tuve mi primer teléfono móvil
-+ Trás eso he ido heredando telefonos móviles de mi padre y mi madre
+### 2014/15: ###
++ En 2012 me aceptaron en el conservatorio para aprender a tocar el piano, cada dia caminaba 15 minutos hasta llegar allí. Los primeros años mis padres me acompañaban, pero cuando llegué a los 9/10 años de edad iba yo sola, por lo que necesitaba estar conectada con ellos, así que me regalaron mi primer teléfono móvil
++ Después he ido heredando sus telefonos, como no podía ser de otra manera debido a la velocidad del desarrollo de la tecnología y a que mi padre es un friki de la misma
 ### Informática y audiovisuales: ###
-+ Como comenté antes dije que mi padre me había inculcado todo lo que me gusta a día de hoy, los primeros recuerdos que tengo, a parte de los videjuegos que hablaré más adelante, es verle haciendo videos de despedida (jubilaciones o traslados) a sus compañeros del trabajo con el ordenador de sobremesa (apple) y la aplicación de jib jab:
++ Como comenté antes dije que mi padre me había inculcado todo lo que me gusta a día de hoy, los primeros recuerdos que tengo, a parte de los videjuegos que hablaré más adelante, es verle haciendo videos de despedida (jubilaciones o traslados) a sus compañeros del trabajo con el ordenador de sobremesa apple y la aplicación de jib jab:
 ![Jib jab][img9]
 
 [img9]: https://th.bing.com/th/id/R.5cb1060bfa75645a0196b3743253731d?rik=7bQRi5RWtFa9yw&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f921%2fB60F60EC92B414A549D42AB290EFA6B0%2fJibJab.png&ehk=ffRb7oUHt8dWmUhc%2fZmu7PjOPonhz%2fwh52vItezmcg8%3d&risl=&pid=ImgRaw&r=0
