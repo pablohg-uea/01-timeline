@@ -3,23 +3,23 @@
 ## About me: ##  
 + Mi nombre es María Arroniz, nací en Santander (Cantabria) el 8 de enero de 2005  
 + Tengo muy claro que mi padre ha sido el que despertó en mí todo el interés y pasión por las tecnologias, videojuegos y audiovisuales (edición de vídeo)  
-+ Como es natural mi relación con la tecnología se ha ido acentuando con los años,tanto por el interés que ha crecido en mí, como por a la evolucíon de la misma 
++ Como es natural mi relación con la tecnología se ha ido acentuando con los años, tanto por el interés que ha crecido en mí, como por a la evolución de la misma 
 ## Technology and me: ##
 ### 2014/15: ###
 + En 2012 me aceptaron en el conservatorio para aprender a tocar el piano, cada día caminaba 15 minutos hasta llegar allí. Los primeros años mis padres me acompañaban, pero cuando llegué a los 9/10 años de edad iba yo sola, por lo que necesitaba estar conectada con ellos, así que me regalaron mi primer teléfono móvil
-+ Después he ido heredando sus telefonos, como no podía ser de otra manera debido a la velocidad del desarrollo de la tecnología y a que mi padre es un friki de la misma
++ Después he ido heredando sus teléfonos, como no podía ser de otra manera debido a la velocidad del desarrollo de la tecnología y a que mi padre es un friki de la misma
 ### Informática y audiovisuales: ###
-+ Como comenté anteriormente, mi padre me ha inculcado todo lo que me gusta a día de hoy, los primeros recuerdos que tengo, a parte de los videjuegos que hablaré más adelante, es verle haciendo videos de despedidas y jubilaciones a sus compañeros de trabajo con el ordenador apple de sobremesa y la aplicación de jib jab
++ Como comenté anteriormente, mi padre me ha inculcado todo lo que me gusta a día de hoy, los primeros recuerdos que tengo, a parte de los videojuegos que hablaré más adelante, es verle haciendo vídeos de despedidas y jubilaciones a sus compañeros de trabajo con el ordenador apple de sobremesa y la aplicación de jib jab
 ![Jib jab][img9]
 
 [img9]: https://th.bing.com/th/id/R.5cb1060bfa75645a0196b3743253731d?rik=7bQRi5RWtFa9yw&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f921%2fB60F60EC92B414A549D42AB290EFA6B0%2fJibJab.png&ehk=ffRb7oUHt8dWmUhc%2fZmu7PjOPonhz%2fwh52vItezmcg8%3d&risl=&pid=ImgRaw&r=0
 
-+ Verlo trabajar con tanta ilusión en videos para los demás despertó la creatividad en mí por la tecnología y la  edición de vídeo
++ Verlo trabajar con tanta ilusión en vídeos para los demás despertó la creatividad en mí por la tecnología y la  edición de vídeo
 ### Música: ###
 + La música me ha fascinado desde que entré en el consevatorio con 7 años 
 + Tengo un gusto musical MUY muy variado (música clásica, indie, pop, phonk, techno...)
 + No puedo vivir sin ella
-+ La conexión que tengo con la música esa través de la tecnología, no solo por la plataforma donde la escucho (Spotify), sino también por la forma en la que llega a mí:    
++ La conexión que tengo con la música es a través de la tecnología, no solo por la plataforma donde la escucho (Spotify), sino también por la forma en la que llega a mí:    
 
 ![Cascos sony][img10]
 
@@ -28,19 +28,19 @@
 
 
 ## Videogames and me: ##
-+ Antes de comenzar nombrando y explicando mi evolución personal con los videojuegos me gustaría señalar cómo me dí cuenta que quería trabajar en esta industria: justo al acabar un videojuego llamado **Horizon Zero Dawn** (videojuego de acción, aventura y mundo abierto desarrollado por Guerrilla Games que salió en 2015), salieron los créditos de todas las persona que lo habían desarrollado, en ese momento me emocioné dándome cuenta que quería que mi nombre apareciera en los créditos de futuros videojuegos.
++ Antes de comenzar nombrando y explicando mi evolución personal con los videojuegos me gustaría señalar cómo me dí cuenta que quería trabajar en esta industria: justo al acabar un videojuego llamado **Horizon Zero Dawn** (videojuego de acción, aventura y mundo abierto desarrollado por Guerrilla Games en 2015), salieron los créditos de todas las persona que lo habían desarrollado, en ese momento me emocioné dándome cuenta que quería que mi nombre apareciera en los créditos de futuros videojuegos.
 
 ![Horizon Zero Dawn][img1]
 
 [img1]: https://th.bing.com/th/id/R.8a9fe653e3b8f90b4e046ce83aca65ac?rik=GcUBPFf49ixkoA&pid=ImgRaw&r=0
 
-+ El primer contacto que tuve con el mundo de los videojuegos fue una PSP antigüa que tenía mi padre y a mis cortos 6/7 años de edad me alucinó
++ El primer contacto que tuve con el mundo de los videojuegos fue una PSP antigua que tenía mi padre y a mis cortos 6/7 años de edad me alucinó
 
 ![psp][img2]
 
 [img2]: https://th.bing.com/th/id/R.3d3d6e2155c531f274d20b22dc74e39a?rik=yXj%2bPGu%2b3XjjTg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-KkW0QedPuhw%2fU46F4vVU-ZI%2fAAAAAAAAILE%2fNYqbPAcbqj0%2fs1600%2fPSP-3000-Model.png&ehk=hCpI2fOaCFpDJxZjHx%2f70JQBYXarA3OHIYIO7fBN4QQ%3d&risl=&pid=ImgRaw&r=0
 
-+ Después de que mi padre viera que me interesaba el mundo de los viodejuegos, me regaló una consolita nintendo de Mario bros que tenía él desde que era pequeño y con un juego consistía en mover cajas de un lado a otro sin que se cayeran, a día de hoy lo sigo guardando con mucho cariño
++ Después de que mi padre viera que me interesaba el mundo de los viodejuegos, me regaló una consolita Nintendo de Mario bros que tenía él desde que era pequeño y con un juego que consistía en mover cajas de un lado a otro sin que se cayeran, a día de hoy lo sigo guardando con mucho cariño
 
 ![Mario bros nintendo][img3]
 
@@ -80,6 +80,8 @@
 [img8]: https://www.pwnedgames.co.za/images/stories/virtuemart/product/playstation_5_console_white_ps5.png 
 
 ## Conclusions: ##
++ Mi vida siempre ha estado conectada con la tecnología, la música, los telefónos, los ordenaodres, los videojuegos... y he llegado a la conclusion de que forma parte de mi esencia y es tal el entusiasmo que llega a definirme como persona
++ La tecnología forma parte de nuestras vidas, nadie puede escapar de sus redes y yo quiero formar parte de esta tela de araña 
 
 
 
