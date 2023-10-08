@@ -7,7 +7,7 @@
 |2017|Mi primer ordenador personal en casa|Muy alto|
 |2018|Mi primer teléfomo móvil propio|Muy alto|
 |2019|Mi primera asignatura de programación (Scratch)|Muy alto|
-|2020|Mi primera asignatura de TIC|Media/Baja|
+|2020|Mi experiencia con TIC|Media/Baja|
 |2021-2022|Tec. Ind. & Imaxe e Son|Media|
 |2023|Mis primeros pasos como universitario informático|Muy Alto|
 
@@ -40,3 +40,16 @@ Hasta 2º de la ESO no tuve mi primer móvil personal, y la razón de que me lo 
 Cuando llegué a 3º de la ESO me apunté a mi primera asignatura que ya estaba relacionada al 100% con la tecnología, y esa era "Programación". En ella empezamos a ver cosas ya más interesantes para mi y por fin me sentía agusto en una clase, ya que me interesaba mucho lo que hacíamos, entre lo que destaco Scratch, una aplicación bastante fácil de utilizar y con la que aprendí mis primeros pasos en la programación con bloques.
 
 ![Scratch](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtuauEuA9HPLFfyNabrF2zQ8JRsSSAMcy6Q&usqp=CAU)
+
+## Mi experiencia con TIC
+
+A partir de 4º de la ESO ya empecé a tener una nueva asignatura que era TIC o *Tecnologías de la Información y la Comunicación*. Esta asignatura que me acompañó mis 3 últimos años de Instituto no me gustó tanto como me esperaba, ya que entre que tenía un profesor que sin ganas de enseñar la asignatura y que la asignatura en sí no era muy emocionante, fue una decepción para mi durante esa etapa de mi vida.
+
+![TIC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLuCiOoN2Y_hJrvOcXzglJ8KKXChfaVa3wQ&usqp=CAU)
+
+## Tec. Ind. & Imaxe e Son
+
+En bachillerato me encontré con otras dos asignaturas nuevas, las cuales fueron Tecnología Industrial, en la que aprendimos, por ejemplo, que es una puerta lógica, como funcionaba una impresora 3D y como diseñar algo para imprimirlo...; e Imaxe e Son, asignatura la cual dábamos en gallego, ya que yo soy de Galicia, y que si que me atrajo un poco más que su asignatura simultánea, donde nos enseñaron a editar videos y hacer blogs donde subíamos nuestros trabajos, además de acabar organizando las fiestas que celebrábamos en el propio Instituto.
+
+![TecnologíaIndustrial](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjObACCdeLtMGfTLbGVrbBLH2vkjqY3okc9w&usqp=CAU)
+![ImaxeSon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjyn6Ed4-9pEAKjgXx-6OYOPmRw0NzyndNOw&usqp=CAU)
