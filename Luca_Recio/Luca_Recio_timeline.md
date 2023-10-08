@@ -28,3 +28,15 @@ La wii fue una consola de videojuegos, que destacó por su nueva forma de intera
 
 # Huawei Mate 20 Lite
 Este fue mi primer teléfono, lo tuve a mis 15 años, y para ser mi primer teléfono contaba con una características decentes, tenia 4gb de ram, 64gb de memoria, y una bateria que me duraba mas de 12h, solo tenia que cargarlo en la noche y ya podia hacer uso de el el resto del dia. Era un móvil de gama baja y con una cámara que a dia de hoy se queda muy atrás, pero para el momento, era lo justo y necesario, ya que su principal uso para mi era la oportunidad de poder hablar con mis amigos sin tener que depender del teléfono de mi madre o de Google Hangouts. Fue un gran cambio para mi porque empecé a entenderme mejor con la gente, ya que siempre había tenido problemas a la hora de socializar en persona.
+![Huawei mate 20 lite](https://www.esdorado.com/2175-large_default/huawei-mate-20-lite-464gb-63-negro-ds.jpg)
+
+# Redmi Note 11
+`Teléfono actual`
+No supuso un gran cambio, lo compré porque mi anterior movil se quedó sin espacio de almacenamiento. Las caracteristicas que cambiaron que mas se notan son:
+- Pantalla de 90 Hz.
+- Camara de 50 megapíxeles.
+- Carga ultra rápida, en menos de 1h carga lo suficiente como para aguantar unas 5h más.
+- Desbloqueo por huella y por reconocimiento facial.
+
+![Redmi](https://m.media-amazon.com/images/I/61sJSKeJExL.__AC_SX300_SY300_QL70_ML2_.jpg)
+
