@@ -13,6 +13,9 @@ En esta linea de tiempo voy a especificar momentos en el cual tuve contacto con 
 ![Playstation2 image](https://phantom-elmundo.unidadeditorial.es/ceff712f04a60d823c30ac9d03ee9d53/resize/550/f/webp/assets/multimedia/imagenes/2020/03/03/15832354407809.jpg)
 
 
+
+
+
 #### - En el año 2011, Mis padres nos regalaron el WII. Una consola que marco mucho mi infancia. Con esa consola fue que conoci los juegos onlines.
 
 ![WII Image](Wii.png)
@@ -27,8 +30,8 @@ En esta linea de tiempo voy a especificar momentos en el cual tuve contacto con 
 
 ![Ninetendo DS](https://www.discoazul.fr/uploads/media/images/xl_azul.jpg)
 
-
-
+#### - En el año 2013, mis padres nos regalaaron la pirmera Ipad que tuvimos. Yo pasaba la mayoria de mi tiempo libre en esa Ipad ya que pasaba jugando un jueggo llamado "Geometry Dash" que era el juego del momento.
+![Geometry Dash](https://upload.wikimedia.org/wikipedia/en/3/35/Geometry_Dash_Logo.PNG)
 #### - En el año 2014, Con mi hermano nos compramos una nueva consola "Playstation 3". Con esa consola conoci los juegos shooters. Mi juego favorito fue el COD Black ops 2.
 ![Playstation3](https://www.refurbished.fr/cache/images/playstation-3-slim-front-controller_600x600_BGresize_16777215-tj.png)
 
