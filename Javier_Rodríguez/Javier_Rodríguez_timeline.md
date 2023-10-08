@@ -62,7 +62,7 @@ No es hasta segundo de bachillerato cuando tuve mi primer contacto con lenguajes
 
 También programamos con java y creamos ciertos programas sencillos desde la aplicación **Eclipse** y como trabajo final creamos una calculadora que iba pidiendo que operación hacer, que numeros utilizar, si querías usarla de nuevo o apagarla, etc.
 
-No he utilizado más lenguajes de programación aunque conocer conozco más pero no sabría usralos aún.
+No he utilizado más lenguajes de programación aunque conocer conozco más pero no sabría usarlos aún.
 
 ## WEBGRAFÍA UTILIZADA
 
