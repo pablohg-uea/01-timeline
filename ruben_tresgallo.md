@@ -13,7 +13,7 @@ En las navidades del año 2011, llegó a mi casa por arte de magia (y por petici
 
 ### *```2014 - Mis primeros pasos en la saga COD```*
 ---
-Comencé mi andadura en la famosa saga Call Of Duty en el año 2014, comenzando por el Call Of Duty Black Ops, con el que empezaría a sentir gran atracción por la saga, poco tiempo despues, dí el paso al Call Of Duty Black Ops 2, que para mí, ha sido el mejor juego que he jugado nunca (No solo de la saga COD), tengo grandes recuerdos jugando solo, con mi hermano, con amigos... Recuerdo hacer todas mis tareas nada más llegar a casa para poder jugar un rato antes de ir a entrenar. Un par de años más tarde, comencé a jugar al Call Of Duty Black Ops 3, el cual disfruté muchisimo ya que todos mis amigos lo jugaban y no hay nada como jugar con todos tus amigos un fin de semana sin nada que hacer.
+Comencé mi andadura en la famosa saga Call Of Duty en el año 2014, comenzando por el Call Of Duty Black Ops, con el que empezaría a sentir gran atracción por la saga, poco tiempo despues, dí el paso al Call Of Duty Black Ops 2, que para mí, ha sido el mejor juego que he jugado nunca (No solo de la saga COD), tengo grandes recuerdos jugando solo, con mi hermano, con amigos... Recuerdo hacer todas mis tareas nada más llegar a casa para poder jugar un rato antes de ir a entrenar. Un par de años más tarde, comencé a jugar al Call Of Duty Black Ops 3, el cual disfruté muchisimo ya que todos mis amigos lo jugaban y no hay nada como jugar con todos tus amigos un fin de semana sin nada que hacer. Mi pasión por el COD continúa a día de hoy, sobre todo con el COD WarZone.
 
 ![cod](https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2015/06/Black-Ops-3.jpg?fit=1920%2C1080&quality=50&strip=all&ssl=1)
 
@@ -36,4 +36,11 @@ Aunque el título de este apartado sea algo extraño, tiene su explicación, y e
 
 ### *``` Extras ```*
 ---
-Podría seguir con esta linea del tiempo mucho más, pero me he querido centrar en lo más importante y en lo que creo que me ha traído hasta aquí
+Podría seguir con esta linea del tiempo mucho más, pero me he querido centrar en lo más importante y en lo que creo que me ha traído hasta aquí, sin embargo, me gustaría hacer una mención a diversas consolas y juegos que he disfrutado durante mi vida, en primer lugar, como gran aficionado al deporte, siempre he jugado a la saga FIFA desde pequeño hasta día de hoy. También he sido muy fanatico de la saga NBA 2K, ambas sagas me parecen los mejores simuladores de deportes que existen y siempre los he disfrutado muchísimo. Para mí, los mejores FIFA han sido;
+
+| FIFA 17 |
+|---      |
+| FIFA 19 |
+| FIFA 21 |
+
+También me gustaría hacer una mención honorífica a las saga Inazuma Eleven, la cual jugué en la Nintendo 3ds y todos los juegos de la Wii, una consola legendaria.
