@@ -54,4 +54,4 @@ Este está montado en una caja de tamaño ATX. Sus características son:
 
 La relación entre la CPU y la tarjeta gráfica es buena, tiene un bajo % de provocar un cuello de botella por lo que puedo sacarle un buen rendimiento al Pc, tanto para juegos como para programas pesados.
 
-
+![Pc](/01-timeline/Imagenes/Pc%20torre.jpg) 
